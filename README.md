@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1ui__XomyA8jbohqX5jDVqPHI-8iDE3lK?usp=sha
 ## Possible visualization
 https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html
 
-#### Tasks till 03.12.2023
+### Tasks till 03.12.2023
 --> Change filename of each pdf (Rahul)
 
 --> Create extraction code blocks for each publisher (Rahul - IEEE, Springer_Link, Sitashma - Rest)
@@ -15,5 +15,5 @@ https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-I
 
 --> Visualization heatmap - 1 lda vs 1 tf-idf (Sitashma)
 
-#### Further Tasks
+### Further Tasks
 --> BERT Topic Modelling - Try on Google Colab (Sitashma), if not the server support through SSH (Sitashma, Rahul)
