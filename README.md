@@ -9,7 +9,7 @@ https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-I
 #### Tasks till 03.12.2023
 --> Change filename of each pdf (Rahul)
 
---> Create extraction code blocks for each publisher (Rahul - IEEE, ScienceDirect, Sitashma - Rest)
+--> Create extraction code blocks for each publisher (Rahul - IEEE, Springer_Link, Sitashma - Rest)
 
 --> Text vectorizer - for tf-idf use ngram(1,3) (Sitashma)
 
