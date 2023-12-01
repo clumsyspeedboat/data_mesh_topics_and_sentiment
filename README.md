@@ -11,9 +11,9 @@ https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-I
 
 --> Create extraction code blocks for each publisher (Rahul - IEEE, ScienceDirect, Sitashma - Rest)
 
---> Text vectorizer - for tf-idf use ngram(1,3) 
+--> Text vectorizer - for tf-idf use ngram(1,3) (Sitashma)
 
---> Visualization heatmap - 1 lda vs 1 tf-idf
+--> Visualization heatmap - 1 lda vs 1 tf-idf (Sitashma)
 
 #### Further Tasks
---> BERT Topic Modelling - Try on Google Colab, if not the server support through SSH
+--> BERT Topic Modelling - Try on Google Colab (Sitashma), if not the server support through SSH (Sitashma, Rahul)
