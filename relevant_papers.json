@@ -1,0 +1,1955 @@
+[
+  {
+    "paperId": "015c006f285dac92bfd30396ac8c22009f418927",
+    "url": "https://www.semanticscholar.org/paper/015c006f285dac92bfd30396ac8c22009f418927",
+    "title": "Data-Driven Information Systems: The Data Mesh Paradigm Shift",
+    "abstract": null,
+    "venue": "Integrated Spatial Databases",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2123102482",
+        "name": "I. Machado"
+      },
+      {
+        "authorId": "144989051",
+        "name": "Carlos A. Costa"
+      },
+      {
+        "authorId": "2209529137",
+        "name": "M. Y. Santos"
+      }
+    ]
+  },
+  {
+    "paperId": "019e08104893e4de446687696e12b6928005bdf1",
+    "url": "https://www.semanticscholar.org/paper/019e08104893e4de446687696e12b6928005bdf1",
+    "title": "A Distributed Data Mesh Paradigm for an Event-based Smart Communities Monitoring Product",
+    "abstract": null,
+    "venue": "ANT/EDI40",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "51936173",
+        "name": "W. Pongpech"
+      }
+    ]
+  },
+  {
+    "paperId": "0406f423c4159e3bd4593c502aeedef7da786522",
+    "url": "https://www.semanticscholar.org/paper/0406f423c4159e3bd4593c502aeedef7da786522",
+    "title": "From Data Mess to Data Mesh: Solution for Futuristic Self-Serve Platforms",
+    "abstract": null,
+    "venue": "IJARCCE",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1579658534",
+        "name": "Satyajit Panigrahy"
+      },
+      {
+        "authorId": "2064326216",
+        "name": "Bibhu Dash"
+      },
+      {
+        "authorId": "2284889070",
+        "name": "Ramya Thatikonda"
+      }
+    ]
+  },
+  {
+    "paperId": "06a3df873a961a78c9833115f6838affdd6109eb",
+    "url": "https://www.semanticscholar.org/paper/06a3df873a961a78c9833115f6838affdd6109eb",
+    "title": "Data mesh : quel est l’intérêt de cette approche ?",
+    "abstract": null,
+    "venue": "Archimag",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2309302823",
+        "name": "Éric Le Ven"
+      }
+    ]
+  },
+  {
+    "paperId": "0891f966db6e1ec4d010a4cdb8ff12cba7d04067",
+    "url": "https://www.semanticscholar.org/paper/0891f966db6e1ec4d010a4cdb8ff12cba7d04067",
+    "title": "The Pandemic Response Commons",
+    "abstract": "ObjectiveA data commons is a software platform for managing, curating, analyzing, and sharing data with a community. The Pandemic Response Commons is a data commons designed to provide a data platform for researchers studying an epidemic or pandemic.\n\nMethodsThe pandemic response commons was developed using the open source Gen3 data platform and is based upon consortium, data, and platform agreements developed by the not-for-profit Open Commons Consortium. A formal consortium of Chicagoland area organizations was formed to develop and operate the pandemic response commons.\n\nResultsWe developed a general pandemic response commons and an instance of it for the Chicagoland region called the Chicagoland COVID-19 Commons. A Gen3 data platform was set up and operated with policies, procedures and controls based upon NIST SP 800-53. A consensus data model for the commons was developed, and a variety of datasets were curated, harmonized and ingested, including statistical summary data about COVID cases, patient level clinical data, and SARS-CoV-2 viral variant data.\n\nDiscussion and conclusionGiven the various legal and data agreements required to operate a data commons, a pandemic response commons is designed to be in place and operating at a low level prior to the occurrence of an epidemic, with the activities increasing as required during an epidemic. A regional instance of a Pandemic Response Commons is designed to be part of a broader data ecosystem or data mesh consisting of multiple regional commons supporting pandemic response through sharing of regional data.",
+    "venue": "medRxiv",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2296574775",
+        "name": "Matthew Trunnell"
+      },
+      {
+        "authorId": "2170057459",
+        "name": "Casey Frankenberger"
+      },
+      {
+        "authorId": "2121975",
+        "name": "Bala Hota"
+      },
+      {
+        "authorId": "2296683231",
+        "name": "Troy Hughes"
+      },
+      {
+        "authorId": "2051447919",
+        "name": "P. Martinov"
+      },
+      {
+        "authorId": "52000360",
+        "name": "Urmila Ravichandran"
+      },
+      {
+        "authorId": "2292166240",
+        "name": "Nirav Shah"
+      },
+      {
+        "authorId": "2267992737",
+        "name": "Robert L. Grossman"
+      }
+    ]
+  },
+  {
+    "paperId": "09e9e93868d3b604ae56c484d5b8bc5d497d549f",
+    "url": "https://www.semanticscholar.org/paper/09e9e93868d3b604ae56c484d5b8bc5d497d549f",
+    "title": "Ten Pillars for Data Meshes",
+    "abstract": "Over the past few years, a growing number of data platforms have emerged, including data commons, data repositories, and databases containing biomedical, environmental, social determinants of health and other data relevant to improving health outcomes. With the growing number of data platforms, interoperating multiple data platforms to form data meshes, data fabrics and other types of data ecosystems reduces data silos, expands data use, and increases the potential for new discoveries. In this paper, we introduce ten principles, which we call pillars, for data meshes. The goals of the principles are 1) to make it easier, faster, and more uniform to set up a data mesh from multiple data platforms; and, 2) to make it easier, faster, and more uniform, for a data platform to join one or more data meshes. The hope is that the greater availability of data through data meshes will accelerate research and that the greater uniformity of meshes will lower the cost of developing meshes and connecting a data platform to them.",
+    "venue": "",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2330083076",
+        "name": "Robert L. Grossman"
+      },
+      {
+        "authorId": "145713380",
+        "name": "Ceilyn Boyd"
+      },
+      {
+        "authorId": "2330083082",
+        "name": "Nhan Do"
+      },
+      {
+        "authorId": "5823186",
+        "name": "Danne C. Elbers"
+      },
+      {
+        "authorId": "2330083332",
+        "name": "Michael S. Fitzsimons"
+      },
+      {
+        "authorId": "2247064391",
+        "name": "M. L. Giger"
+      },
+      {
+        "authorId": "2330083176",
+        "name": "Anthony Juehne"
+      },
+      {
+        "authorId": "49459382",
+        "name": "Brienna Larrick"
+      },
+      {
+        "authorId": "2330143123",
+        "name": "Jerry S. H. Lee"
+      },
+      {
+        "authorId": "2330224415",
+        "name": "Dawei Lin"
+      },
+      {
+        "authorId": "147523397",
+        "name": "Michael Lukowski"
+      },
+      {
+        "authorId": "2330083751",
+        "name": "James D. Myers"
+      },
+      {
+        "authorId": "5642486",
+        "name": "L. P. Schumm"
+      },
+      {
+        "authorId": "6228035",
+        "name": "A. Venkat"
+      }
+    ]
+  },
+  {
+    "paperId": "10864a408a90dd39287b4c73f24f1f87f1a4ca05",
+    "url": "https://www.semanticscholar.org/paper/10864a408a90dd39287b4c73f24f1f87f1a4ca05",
+    "title": "Data products, data mesh, and data fabric",
+    "abstract": null,
+    "venue": "Business & Information Systems Engineering",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2304985748",
+        "name": "Ivo Blohm"
+      },
+      {
+        "authorId": "2304992121",
+        "name": "Felix Wortmann"
+      },
+      {
+        "authorId": "2304988310",
+        "name": "Christine Legner"
+      },
+      {
+        "authorId": "2304985755",
+        "name": "Felix Köbler"
+      }
+    ]
+  },
+  {
+    "paperId": "12fad2c4da6fec7d3e8ff41134c9aae35fd5e1e8",
+    "url": "https://www.semanticscholar.org/paper/12fad2c4da6fec7d3e8ff41134c9aae35fd5e1e8",
+    "title": "A Semantic Approach to Identifier Management in Engineering Systems",
+    "abstract": "Mapping identifiers across the systems is an essential part of the work towards automatic system integration. It will help us move from the traditional processes that are often manual, error-prone, and time and resource-consuming. In this paper, we propose a solution that will allow us to approach the problem from a data mesh perspective, where organisations and domains serve and host their own data for consumption, combined with ontology-based data access to move towards machine-readable data, more automatic data integration, and further digitalisation in engineering systems. This is an important step as structured and enhanced system-to-system data interchange has enormous efficiency gains and consequential savings in the oil and gas industry, as well as in other sectors of engineering with similar challenges.",
+    "venue": "2021 IEEE International Conference on Big Data (Big Data)",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "71777711",
+        "name": "Rustam Mehmandarov"
+      },
+      {
+        "authorId": "2033382",
+        "name": "A. Waaler"
+      },
+      {
+        "authorId": "1850445",
+        "name": "D. Cameron"
+      },
+      {
+        "authorId": "67131654",
+        "name": "R. Fjellheim"
+      },
+      {
+        "authorId": "3294112",
+        "name": "T. Pettersen"
+      }
+    ]
+  },
+  {
+    "paperId": "14ad90d55de93df1308d300fa5eff6fc1f094e8e",
+    "url": "https://www.semanticscholar.org/paper/14ad90d55de93df1308d300fa5eff6fc1f094e8e",
+    "title": "Data Mesh: Concepts and Principles of a Paradigm Shift in Data Architectures",
+    "abstract": null,
+    "venue": "Procedia Computer Science",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2123102482",
+        "name": "I. Machado"
+      },
+      {
+        "authorId": "144989051",
+        "name": "Carlos A. Costa"
+      },
+      {
+        "authorId": "2209529137",
+        "name": "M. Y. Santos"
+      }
+    ]
+  },
+  {
+    "paperId": "14fc535559a4fe3d059e87a329fe58640925c343",
+    "url": "https://www.semanticscholar.org/paper/14fc535559a4fe3d059e87a329fe58640925c343",
+    "title": "CoK: A Survey of Privacy Challenges in Relation to Data Meshes",
+    "abstract": null,
+    "venue": "International Conference on Database and Expert Systems Applications",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "51164159",
+        "name": "N. Podlesny"
+      },
+      {
+        "authorId": "145827358",
+        "name": "Anne Kayem"
+      },
+      {
+        "authorId": "1708312",
+        "name": "C. Meinel"
+      }
+    ]
+  },
+  {
+    "paperId": "17cce31a891eb8e10267bab6e3f12394b31537dc",
+    "url": "https://www.semanticscholar.org/paper/17cce31a891eb8e10267bab6e3f12394b31537dc",
+    "title": "DEVELOPMENT OF DATA MESH DATA PLATFORM WITH ML DOMAIN OF DATA ANALYSIS",
+    "abstract": null,
+    "venue": "Electronics and Information Technologies",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2261812379",
+        "name": "M. Fostyak"
+      },
+      {
+        "authorId": "2261815334",
+        "name": "L. Demkiv"
+      }
+    ]
+  },
+  {
+    "paperId": "187e9a7ec8b6277d6d7ac100cbaf720f337acf1e",
+    "url": "https://www.semanticscholar.org/paper/187e9a7ec8b6277d6d7ac100cbaf720f337acf1e",
+    "title": "A novel design for Data Processing Framework of Park-level Power System with Data Mesh concept",
+    "abstract": "Building a new-type power system with renewable energy is the key to achieving the target of carbon peak and carbon neutrality, which has been the consensus of the clean, low-carbon, and safe energy transition. The construction of a new-type power system at the industrial park level is the first demonstration of the coordinated optimization and intelligent control of power sources, grid, load, and energy storage to make overall planning to achieve diversified development. To sustain the ‘balance, security, diversity, and low cost’ construction goals of the new-type power system at the park level, the power grid dispatching and control system is transformed to the direction of intelligence and automation, which is reflected in the rapid emergence and construction of complex systems such as digital twin, simulation, reinforcement learning, model training and prediction, and intelligent decision-making of the EMS (Energy Manage System). This brings more complex data sharing, interaction, construction, and other technical requirements than ever before. At the same time, along with the simultaneous construction of new power systems such as micro-grids, virtual power plants, and distributed photovoltaic systems, it has exacerbated the problems of data divergence from business, low data utilization, and centralized architecture brought by the data lakes and data warehouses under the previous monolithic architecture, leading to the data model hard to deploy to meet the demand for efficient collection, interaction, and sharing of scattered and heterogeneous data under the new generation energy structure and greatly increases the work pressure of the data team, making the data team a bottleneck for business applications. Therefore, this paper proposes a novel design scheme of data processing framework with the data mesh concept, supports the federal computing and analysis engine by building a distributed metadata center, changes the previous centralized data modeling method through data service and productization, realizes data sharing and interaction between complex multi-systems by defining service invocation and encapsulation technology means, improves data utilization, and better supports the automation, rationalization, and balanced construction of the intelligent dispatch system to meet the challenges and requirements brought by the new-type park-level power system.",
+    "venue": "2022 IEEE International Conference on Energy Internet (ICEI)",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2214556368",
+        "name": "Jin Li"
+      },
+      {
+        "authorId": "2090447992",
+        "name": "Shixia Cai"
+      },
+      {
+        "authorId": "36547165",
+        "name": "Lei Wang"
+      },
+      {
+        "authorId": "2112146648",
+        "name": "Mingyang Li"
+      },
+      {
+        "authorId": "23637713",
+        "name": "Jiamao Li"
+      },
+      {
+        "authorId": "2064692590",
+        "name": "Hui Tu"
+      }
+    ]
+  },
+  {
+    "paperId": "2680f24c639973632d4f6e85ac85c5c03ce2460f",
+    "url": "https://www.semanticscholar.org/paper/2680f24c639973632d4f6e85ac85c5c03ce2460f",
+    "title": "DATA MESH AS AN INNOVATIVE ARCHITECTURAL APPROACH AND THE NEXT GENERATION OF DATA ANALYTICS",
+    "abstract": "The article discusses the current problems of existing approaches of organizations to data processing and analysis and proposes an innovative concept called Data Mesh. The authors have considered in detail the historically established generations of analytics with their means of solving problems, as well as studied in detail the theoretical aspects of the new Data Mesh approach with the application of various scenarios for the deployment of the platform as a practical experience.",
+    "venue": "EKONOMIKA I UPRAVLENIE: PROBLEMY, RESHENIYA",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2248029637",
+        "name": "Sergey S. Maslov"
+      },
+      {
+        "authorId": "2247823070",
+        "name": "Igor E. Stepanov"
+      }
+    ]
+  },
+  {
+    "paperId": "28a439e311790c76f4caa1205b177ddf99122877",
+    "url": "https://www.semanticscholar.org/paper/28a439e311790c76f4caa1205b177ddf99122877",
+    "title": "Towards a Knowledge Graph-based Data Mesh for Smart Manufacturing",
+    "abstract": null,
+    "venue": "SemIIM",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1403922102",
+        "name": "Irlán Grangel-González"
+      },
+      {
+        "authorId": "2295992437",
+        "name": "Marc Rickart"
+      },
+      {
+        "authorId": "2295992328",
+        "name": "Oliver Rudolph"
+      },
+      {
+        "authorId": "2295992807",
+        "name": "Rui Dias"
+      }
+    ]
+  },
+  {
+    "paperId": "2901940eb7681cdc3f05e6b531e309eb91e5fc4d",
+    "url": "https://www.semanticscholar.org/paper/2901940eb7681cdc3f05e6b531e309eb91e5fc4d",
+    "title": "Data Mesh: Concepts and Principles of a Paradigm Shift in Data Architectures",
+    "abstract": null,
+    "venue": "CENTERIS/ProjMAN/HCist",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2123102482",
+        "name": "I. Machado"
+      },
+      {
+        "authorId": "144989051",
+        "name": "Carlos A. Costa"
+      },
+      {
+        "authorId": "2209529137",
+        "name": "M. Y. Santos"
+      }
+    ]
+  },
+  {
+    "paperId": "2bffbb1f03830765cd12dec661a2b5c44c6d6fc3",
+    "url": "https://www.semanticscholar.org/paper/2bffbb1f03830765cd12dec661a2b5c44c6d6fc3",
+    "title": "Decentralized Data Governance as Part of a Data Mesh Platform: Concepts and Approaches",
+    "abstract": "Data mesh is a socio-technical approach to decentralized analytics data management. To manage this decentralization efficiently, data mesh relies on automation provided by a self-service data infrastructure platform. A key aspect of this platform is to enable decentralized data governance. Because data mesh is a young approach, there is a lack of coherence in how data mesh concepts are interpreted in the industry, and almost no work on how a data mesh platform facilitates governance. This paper presents a conceptual model of key data mesh concepts and discusses different approaches to drive governance through platform means. The insights presented are drawn from concrete experiences of implementing a fully-functional data mesh platform that can be used as a reference on how to approach data mesh platform development.",
+    "venue": "2023 IEEE International Conference on Web Services (ICWS)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2086174",
+        "name": "Arif Wider"
+      },
+      {
+        "authorId": "2221112664",
+        "name": "Sumedha Verma"
+      },
+      {
+        "authorId": "2000866985",
+        "name": "A. Akhtar"
+      }
+    ]
+  },
+  {
+    "paperId": "2cf887decaf8f460163d006bc770f71676c127ec",
+    "url": "https://www.semanticscholar.org/paper/2cf887decaf8f460163d006bc770f71676c127ec",
+    "title": "Modernizing Data Management by Developing a Data Mesh Knowledge Layer with OSDU",
+    "abstract": "\n Data Mesh is a concept that is utilized as a way forward to start connecting various data sources and making their content available as data products to end-users. In organizations embarking on a digitalization journey, it is an attractive approach to prevent having to migrate all, or part of the landscape into a new solution or platform. Especially in organizations that already have a well-established and historically grown but complex data landscape.\n As with any other industry, digitization is a must for organizations to unlock existing data and create new innovative solutions, for example with the help of AI. Examples are the creation of new data products, becoming more efficient and safer in their operations and above all contribute to energy security in our world.\n With respect to new data solutions, the OSDU standard has become one of the defacto standards to make data available for users active in the subsurface and wells space. While it is often presented as either a platform to migrate data to or incorporate it as a digitized data lake for the organization, we would like to present OSDU as part of a Data Mesh.\n In practice, data lake solutions, especially relatively complex to operate solutions like OSDU, are seen as too complex for the smaller to mid-size operators that have the same data challenges and need for digitization as the larger operators. A migration or data lake integration project is often too disruptive for such organizations. But also, for larger operators that have a need for a day-to-day continuation of their operation with solution support, can benefit from using a Data Mesh approach.\n In our solution we present OSDU as the ‘knowledge layer’ in a Data Mesh. This means that the strengths of OSDU on the management of meta-data and its open architecture are utilized to create a System of Engagement for any user in an organization, without being disruptive to the day-to-day operations and use of existing solutions.\n To create a Data Mesh with OSDU, the solution needs to be enhanced on the levels of Search, Governance and Data Product generation. These enhancements are beneficial to OSDU in general, with or without being in in a Data Mesh, but become even more powerful when applied in an enterprise-wide solution.",
+    "venue": "Day 2 Tue, October 17, 2023",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2258257939",
+        "name": "Michaël van der Haven"
+      },
+      {
+        "authorId": "2258258461",
+        "name": "Vijender Thakur"
+      }
+    ]
+  },
+  {
+    "paperId": "2dbcaf3ed3ae048ab1545c445adfd57e267b00ac",
+    "url": "https://www.semanticscholar.org/paper/2dbcaf3ed3ae048ab1545c445adfd57e267b00ac",
+    "title": "Post-processing and visualization of large-scale DEM simulation data with the open-source VELaSSCo platform",
+    "abstract": "Regardless of its origin, in the near future the challenge will not be how to generate data, but rather how to manage big and highly distributed data to make it more easily handled and more accessible by users on their personal devices. VELaSSCo (Visualization for Extremely Large-Scale Scientific Computing) is a platform developed to provide new visual analysis methods for large-scale simulations serving the petabyte era. The platform adopts Big Data tools/architectures to enable in-situ processing for analytics of engineering and scientific data and hardware-accelerated interactive visualization. In large-scale simulations, the domain is partitioned across several thousand nodes, and the data (mesh and results) are stored on those nodes in a distributed manner. The VELaSSCo platform accesses this distributed information, processes the raw data, and returns the results to the users for local visualization by their specific visualization clients and tools. The global goal of VELaSSCo is to provide Big Data tools for the engineering and scientific community, in order to better manipulate simulations with billions of distributed records. The ability to easily handle large amounts of data will also enable larger, higher resolution simulations, which will allow the scientific and engineering communities to garner new knowledge from simulations previously considered too large to handle. This paper shows, by means of selected Discrete Element Method (DEM) simulation use cases, that the VELaSSCo platform facilitates distributed post-processing and visualization of large engineering datasets.",
+    "venue": "International Conference on Advances in System Simulation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "32565366",
+        "name": "J. Morrissey"
+      },
+      {
+        "authorId": "1907575",
+        "name": "Prabhat Totoo"
+      },
+      {
+        "authorId": "65843672",
+        "name": "K. Hanley"
+      },
+      {
+        "authorId": "2522020",
+        "name": "Stefanos‐Aldo Papanicolopulos"
+      },
+      {
+        "authorId": "39118612",
+        "name": "J. Ooi"
+      },
+      {
+        "authorId": "2111815886",
+        "name": "Ivan Gonzalez"
+      },
+      {
+        "authorId": "2583571",
+        "name": "B. Raffin"
+      },
+      {
+        "authorId": "10717361",
+        "name": "Seyedmorteza Mostajabodaveh"
+      },
+      {
+        "authorId": "3262142",
+        "name": "T. Gierlinger"
+      }
+    ]
+  },
+  {
+    "paperId": "2f927f6a04a6006ba7b5fe754186ca51526799c5",
+    "url": "https://www.semanticscholar.org/paper/2f927f6a04a6006ba7b5fe754186ca51526799c5",
+    "title": "Data Fabric and Data Mesh Approaches with AI: A Guide to AI-based Data Cataloging, Governance, Integration, Orchestration, and Consumption",
+    "abstract": null,
+    "venue": "",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "70009328",
+        "name": "Eberhard Hechler"
+      },
+      {
+        "authorId": "98791819",
+        "name": "M. Weihrauch"
+      },
+      {
+        "authorId": "2213955491",
+        "name": "Yan (Catherine) Wu"
+      }
+    ]
+  },
+  {
+    "paperId": "30f454c9f10d54b55e1cdc94e5224215d22257d1",
+    "url": "https://www.semanticscholar.org/paper/30f454c9f10d54b55e1cdc94e5224215d22257d1",
+    "title": "Breaking Down Data Silos: Data Mesh to Achieve Effective Aggregation in Data Localization",
+    "abstract": "Data localization laws are becoming more common, which makes it hard for companies to manage and combine data that is spread out in different parts of the world. This is especially hard because data is scattered and there are limits on how data can be sent across borders. Data Mesh, a new way of thinking about data architecture, offers a solution to this problem by offering a decentralized way of managing data that can make it easier to put together data in a local context. In this paper, we discuss the problems that organizations face when trying to manage data localization with respect to the data regulations in different regions, the problems with traditional approaches to data management, and the benefits of using a data mesh architecture to gather data. We also discuss a region-based unified data mesh architecture that was made with data localization in mind, pointing out its most important parts and benefits. Our proposed unified data mesh abstraction model can help organizations to deal with the problems caused by data localization and use their data assets to make better decisions and get better insights.",
+    "venue": "2023 International Conference on Computer, Electronics & Electrical Engineering & their Applications (IC2E3)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2248810335",
+        "name": "Jaganmohan Reddy Kancharla"
+      },
+      {
+        "authorId": "2248790695",
+        "name": "Dr. S. D. Madhu Kumar"
+      }
+    ]
+  },
+  {
+    "paperId": "32576252cdab666300d391757a9826bdb0e538bf",
+    "url": "https://www.semanticscholar.org/paper/32576252cdab666300d391757a9826bdb0e538bf",
+    "title": "Trick or Treat: Centralized Data Lake Vs Decentralized Data Mesh",
+    "abstract": null,
+    "venue": "International ACM Conference on Management of Emergent Digital EcoSystems",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2283317504",
+        "name": "Anton Dolhopolov"
+      },
+      {
+        "authorId": "2102129",
+        "name": "Arnaud Castelltort"
+      },
+      {
+        "authorId": "2283317294",
+        "name": "Anne Laurent"
+      }
+    ]
+  },
+  {
+    "paperId": "3481059c5b34942d463ef687eb560ea3338e90ad",
+    "url": "https://www.semanticscholar.org/paper/3481059c5b34942d463ef687eb560ea3338e90ad",
+    "title": "Implementing a Blockchain-Powered Metadata Catalog in Data Mesh Architecture",
+    "abstract": null,
+    "venue": "International Congress on Blockchain and Applications",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2283317504",
+        "name": "Anton Dolhopolov"
+      },
+      {
+        "authorId": "2102129",
+        "name": "Arnaud Castelltort"
+      },
+      {
+        "authorId": "145472032",
+        "name": "Anne Laurent"
+      }
+    ]
+  },
+  {
+    "paperId": "3bd32d5078d799a37094fdf93c4ed76952dcb864",
+    "url": "https://www.semanticscholar.org/paper/3bd32d5078d799a37094fdf93c4ed76952dcb864",
+    "title": "Enterprise Data Strategy: A Decentralized Data Mesh Approach",
+    "abstract": "As the enterprises experience exponential growth of data, the centralized approach of data lakes is falling short of meeting dynamic business needs. This has given rise to a data mesh approach focusing on data as a product thinking, distributed domain driven architectures, federated governance and self-serving data infrastructure. This paper provides an overview of data mesh concepts, reference architectures and guidance on practical implementation to make data mesh a success.",
+    "venue": "2022 International Conference on Data Analytics for Business and Industry (ICDABI)",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "29881465",
+        "name": "V. K. Butte"
+      },
+      {
+        "authorId": "2101944385",
+        "name": "S. Butte"
+      }
+    ]
+  },
+  {
+    "paperId": "3ce51e3e40d1417a6c96aea9a190d7b786a04cfe",
+    "url": "https://www.semanticscholar.org/paper/3ce51e3e40d1417a6c96aea9a190d7b786a04cfe",
+    "title": "Finding Your Way Through the Jungle of Big Data Architectures",
+    "abstract": "This paper presents a systematic review of common analytical data architectures based on DAMA-DMBOK and ArchiMate. The paper is work in progress and provides a first view on Gartner’s Logical Data Warehouse paradigm, Data Fabric and Dehghani’s Data Mesh proposal as well as their interdependencies. It furthermore sketches the way forward how this work can be extended by covering more architecture paradigms (incl. classic Data Warehouse, Data Vault, Data Lake, Lambda and Kappa architectures) and introducing a template with among others \"context\", \"problem\" and \"solution\" descriptions, leading ultimately to a pattern system providing guidance for choosing the right architecture paradigm for the right situation",
+    "venue": "2021 IEEE International Conference on Big Data (Big Data)",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1810386",
+        "name": "Torsten Priebe"
+      },
+      {
+        "authorId": "38640960",
+        "name": "S. Neumaier"
+      },
+      {
+        "authorId": "2070408044",
+        "name": "S. Markus"
+      }
+    ]
+  },
+  {
+    "paperId": "40c736da8effd47ee8f4a4860ef84b3cccf2c840",
+    "url": "https://www.semanticscholar.org/paper/40c736da8effd47ee8f4a4860ef84b3cccf2c840",
+    "title": "Data Mesh: Guiding Principles and Patterns, and Data Catalog Architectural Concept",
+    "abstract": "The paper explores the concept of Data mesh, a change in thinking in data architecture that enables efficient data sharing and creation of data products. The paper emphasizes the significance of data governance, promoting the creation of a data catalog as a central repository for information about data products. The paper introduces the guiding principles of Data mesh are outlined, including a domain-driven approach, product-based thinking, decentralized ownership, and federated governance. The paper further explores the data product lifecycle, detailing the stages from data product initiation to decommissioning or refinement. Additionally, the role of the data catalog in the data mesh is discussed, encompassing components such as data shop, identity management, enterprise knowledge graph, data quality, data dictionary, business glossary, and data lineage.",
+    "venue": "International Conference on Control, Decision and Information Technologies",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "3454927",
+        "name": "Sona Karkosková"
+      }
+    ]
+  },
+  {
+    "paperId": "41c08e28f13b7c1bfa858d1471594dd469d0d4e1",
+    "url": "https://www.semanticscholar.org/paper/41c08e28f13b7c1bfa858d1471594dd469d0d4e1",
+    "title": "Architectural Design Decisions for Self-Serve Data Platforms in Data Meshes",
+    "abstract": "Data mesh is an emerging decentralized approach to managing and generating value from analytical enterprise data at scale. It shifts the ownership of the data to the business domains closest to the data, promotes sharing and managing data as autonomous products, and uses a federated and automated data governance model. The data mesh relies on a managed data platform that offers services to domain and governance teams to build, share, and manage data products efficiently. However, designing and implementing a self-serve data platform is challenging, and the platform engineers and architects must understand and choose the appropriate design options to ensure the platform will enhance the experience of domain and governance teams. For these reasons, this paper proposes a catalog of architectural design decisions and their corresponding decision options by systematically reviewing 43 industrial gray literature articles on self-serve data platforms in data mesh. Moreover, we used semi-structured interviews with six data engineering experts with data mesh experience to validate, refine, and extend the findings from the literature. Such a catalog of design decisions and options drawn from the state of practice shall aid practitioners in building data meshes while providing a baseline for further research on data mesh architectures.",
+    "venue": "International Conference on Software Architecture",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2283138573",
+        "name": "Tom van Eijk"
+      },
+      {
+        "authorId": "145062920",
+        "name": "I. Kumara"
+      },
+      {
+        "authorId": "50515157",
+        "name": "Dario Di Nucci"
+      },
+      {
+        "authorId": "144273542",
+        "name": "D. Tamburri"
+      },
+      {
+        "authorId": "2066278684",
+        "name": "Willem-jan Van Den Heuvel"
+      }
+    ]
+  },
+  {
+    "paperId": "54e5650dc8ea22626e560e4eca2fbec26e325119",
+    "url": "https://www.semanticscholar.org/paper/54e5650dc8ea22626e560e4eca2fbec26e325119",
+    "title": "Data Mesh Architecture: From Theory to Practice",
+    "abstract": "Data mesh is an emerging decentralized approach to managing and generating value from analytical enterprise data at scale. It shifts the ownership of the data to the business domains closest to the data, promotes sharing and managing data as autonomous products, and uses a federated and auto-mated data governance model. This short tutorial introduces data mesh architecture to practitioners and researchers in the software architecture community. First, we present the key components of a data mesh architecture and discuss critical design decisions that should be made when designing and implementing data meshes in organizations. Then, we present the findings from the data mesh case studies we conducted at the three organizations in the Netherlands and Germany.",
+    "venue": "2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "145062920",
+        "name": "I. Kumara"
+      },
+      {
+        "authorId": "2077094491",
+        "name": "Stefan W. Driessen"
+      },
+      {
+        "authorId": "2283138573",
+        "name": "Tom van Eijk"
+      },
+      {
+        "authorId": "50515157",
+        "name": "Dario Di Nucci"
+      },
+      {
+        "authorId": "2311016377",
+        "name": "D. Tamburri"
+      },
+      {
+        "authorId": "2066278684",
+        "name": "Willem-jan Van Den Heuvel"
+      }
+    ]
+  },
+  {
+    "paperId": "56f805b57de94526b2b031a345687b70fd0cf34f",
+    "url": "https://www.semanticscholar.org/paper/56f805b57de94526b2b031a345687b70fd0cf34f",
+    "title": "The E(G)TL Model: A Novel Approach for Efficient Data Handling and Extraction in Multivariate Systems",
+    "abstract": "This paper introduces the EGTL (extract, generate, transfer, load) model, a theoretical framework designed to enhance the traditional ETL processes by integrating a novel ‘generate’ step utilizing generative artificial intelligence (GenAI). This enhancement optimizes data extraction and processing, presenting a high-level solution architecture that includes innovative data storage concepts: the Fusion and Alliance stores. The Fusion store acts as a virtual space for immediate data cleaning and profiling post-extraction, facilitated by GenAI, while the Alliance store serves as a collaborative data warehouse for both business users and AI processes. EGTL was developed to facilitate advanced data handling and integration within digital ecosystems. This study defines the EGTL solution design, setting the groundwork for future practical implementations and exploring the integration of best practices from data engineering, including DataOps principles and data mesh architecture. This research underscores how EGTL can improve the data engineering pipeline, illustrating the interactions between its components. The EGTL model was tested in the prototype web-based Hyperloop Decision-Making Ecosystem with tasks ranging from data extraction to code generation. Experiments demonstrated an overall success rate of 93% across five difficulty levels. Additionally, the study highlights key risks associated with EGTL implementation and offers comprehensive mitigation strategies.",
+    "venue": "Applied System Innovation",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2190827554",
+        "name": "Aleksejs Vesjolijs"
+      }
+    ]
+  },
+  {
+    "paperId": "581ddadf9f1794ed6dae184fd48184c59d7edd15",
+    "url": "https://www.semanticscholar.org/paper/581ddadf9f1794ed6dae184fd48184c59d7edd15",
+    "title": "Data Mesh: Motivational Factors, Challenges, and Best Practices",
+    "abstract": "With the increasing importance of data and artificial intelligence, organizations strive to become more data-driven. However, current data architectures are not necessarily designed to keep up with the scale and scope of data and analytics use cases. In fact, existing architectures often fail to deliver the promised value associated with them. Data mesh is a socio-technical concept that includes architectural aspects to promote data democratization and enables organizations to become truly data-driven. As the concept of data mesh is still novel, it lacks empirical insights from the field. Specifically, an understanding of the motivational factors for introducing data mesh, the associated challenges, best practices, its business impact, and potential archetypes, is missing. To address this gap, we conduct 15 semi-structured interviews with industry experts. Our results show, among other insights, that industry experts have difficulties with the transition toward federated governance associated with the data mesh concept, the shift of responsibility for the development, provision, and maintenance of data products, and the concept of a data product model. In our work, we derive multiple best practices and suggest organizations embrace elements of data fabric, observe the data product usage, create quick wins in the early phases, and favor small dedicated teams that prioritize data products. While we acknowledge that organizations need to apply best practices according to their individual needs, we also deduct two archetypes that provide suggestions in more detail. Our findings synthesize insights from industry experts and provide researchers and professionals with guidelines for the successful adoption of data mesh.",
+    "venue": "arXiv.org",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "113568957",
+        "name": "J. Bode"
+      },
+      {
+        "authorId": "35188245",
+        "name": "Niklas Kühl"
+      },
+      {
+        "authorId": "2164170187",
+        "name": "Dominik Kreuzberger"
+      },
+      {
+        "authorId": "2164170063",
+        "name": "Sebastian Hirschl"
+      }
+    ]
+  },
+  {
+    "paperId": "5a2c325a64221c86f5745240e333c5ed35b0f0b8",
+    "url": "https://www.semanticscholar.org/paper/5a2c325a64221c86f5745240e333c5ed35b0f0b8",
+    "title": "Exploring the Benefits of Blockchain-Powered Metadata Catalogs in Data Mesh Architecture",
+    "abstract": null,
+    "venue": "International ACM Conference on Management of Emergent Digital EcoSystems",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2283317504",
+        "name": "Anton Dolhopolov"
+      },
+      {
+        "authorId": "2102129",
+        "name": "Arnaud Castelltort"
+      },
+      {
+        "authorId": "2283317294",
+        "name": "Anne Laurent"
+      }
+    ]
+  },
+  {
+    "paperId": "5acb504e62674fe90b733558145b69f804dee0ef",
+    "url": "https://www.semanticscholar.org/paper/5acb504e62674fe90b733558145b69f804dee0ef",
+    "title": "Empowering Data Mesh with Federated Learning",
+    "abstract": "The evolution of data architecture has seen the rise of data lakes, aiming to solve the bottlenecks of data management and promote intelligent decision-making. However, this centralized architecture is limited by the proliferation of data sources and the growing demand for timely analysis and processing. A new data paradigm, Data Mesh, is proposed to overcome these challenges. Data Mesh treats domains as a first-class concern by distributing the data ownership from the central team to each data domain, while keeping the federated governance to monitor domains and their data products. Many multi-million dollar organizations like Paypal, Netflix, and Zalando have already transformed their data analysis pipelines based on this new architecture. In this decentralized architecture where data is locally preserved by each domain team, traditional centralized machine learning is incapable of conducting effective analysis across multiple domains, especially for security-sensitive organizations. To this end, we introduce a pioneering approach that incorporates Federated Learning into Data Mesh. To the best of our knowledge, this is the first open-source applied work that represents a critical advancement toward the integration of federated learning methods into the Data Mesh paradigm, underscoring the promising prospects for privacy-preserving and decentralized data analysis strategies within Data Mesh architecture.",
+    "venue": "arXiv.org",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2293624884",
+        "name": "Haoyuan Li"
+      },
+      {
+        "authorId": "2293395560",
+        "name": "Salman Toor"
+      }
+    ]
+  },
+  {
+    "paperId": "5c45e885543ce039e239db2e255050f08c7b79b0",
+    "url": "https://www.semanticscholar.org/paper/5c45e885543ce039e239db2e255050f08c7b79b0",
+    "title": "Towards a Knowledge Interface for Java Applications",
+    "abstract": ". We are witnessing the spread of data-driven organizations. In particular, enterprise software is migrating from legacy monolithic data systems to microservices , which embrace the distributed nature of data. Despite oﬀering many beneﬁts, microservices pose several challenges in the development and maintenance of information systems. Techniques like Domain-Driven Design and Data Mesh emerged to ease data and system integration by infusing domain knowledge within the developing process. In this scenario, knowledge representation and reasoning (KRR) can come to the rescue. Thus, in this paper, we present the Java Knowledge Interface (JKI), whose goal is allowing Java programmers to semantically lift the applications’ data model (compile time) and state (runtime) with respect to an OWL2 ontology.",
+    "venue": "International Workshop on the Semantic Web",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2306833408",
+        "name": "Mario Scrocca"
+      },
+      {
+        "authorId": "50271459",
+        "name": "Riccardo Tommasini"
+      }
+    ]
+  },
+  {
+    "paperId": "64b1e53ff53d3d393cfef05afdd59f6f6161bc62",
+    "url": "https://www.semanticscholar.org/paper/64b1e53ff53d3d393cfef05afdd59f6f6161bc62",
+    "title": "Privacy Engineering in the Data Mesh: Towards a Decentralized Data Privacy Governance Framework",
+    "abstract": null,
+    "venue": "ICSOC Workshops",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1962331168",
+        "name": "Nemania Borovits"
+      },
+      {
+        "authorId": "145062920",
+        "name": "I. Kumara"
+      },
+      {
+        "authorId": "144273542",
+        "name": "D. Tamburri"
+      },
+      {
+        "authorId": "2066278684",
+        "name": "Willem-jan Van Den Heuvel"
+      }
+    ]
+  },
+  {
+    "paperId": "656d236fa6705f71324c4730c59837c9ca4cc504",
+    "url": "https://www.semanticscholar.org/paper/656d236fa6705f71324c4730c59837c9ca4cc504",
+    "title": "Von Data Warehouse bis Data Mesh: Ein Wegweiser durch den Dschungel analytischer Datenarchitekturen",
+    "abstract": "Data Warehouse, Data Lake, Date Lakehouse, Data Mesh ... in der Szene kursieren derzeit viele neue Namen für analytische Datenarchitekturen. Doch sind die diversen Ansätze wirklich so unterschiedlich? Dieser Beitrag versucht einen strukturierten Vergleich der verschiedenen Architekturparadigmen, methodisch basierend auf DAMA-DMBOK und ArchiMate. Es werden Unterschiede, Gemeinsamkeiten und Abhängigkeiten sowie überlappende Architekturbausteine herausgearbeitet und illustriert. Daraus entsteht eine erste Orientierungshilfe für die Wahl der richtigen analytischen Datenarchitektur für den jeweiligen Anwendungsfall.",
+    "venue": "arXiv.org",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2094904854",
+        "name": "Torsten Priebe"
+      },
+      {
+        "authorId": "2066377826",
+        "name": "S. Neumaier"
+      },
+      {
+        "authorId": "2070407894",
+        "name": "Stefan Márkus"
+      }
+    ]
+  },
+  {
+    "paperId": "6646f4b80571012389b5ab2644ac46ae890cec1e",
+    "url": "https://www.semanticscholar.org/paper/6646f4b80571012389b5ab2644ac46ae890cec1e",
+    "title": "Data Organization Patterns in Data Mesh: Optimizing Data Management for the Modern Enterprise",
+    "abstract": "This article explores the implementation of Data Mesh principles through a structured layered approach to data organization, addressing the challenges of managing large-scale, diverse data ecosystems in modern enterprises. As global data creation surges towards 181 zettabytes by 2025, traditional centralized data\narchitectures are proving inadequate. We propose a four-layer methodology—Raw, Work, Gold, and Publish—that aligns with Data Mesh philosophy while providing clear delineation of data processing stages. Through case studies across various industries, we demonstrate how this approach leads to\nsignificant improvements in data quality, time-to-insight, and incident resolution. A large financial institution achieved a 40% reduction in time-to-insight, while a global manufacturer reported a 30% improvement in data quality. The article also discusses the challenges of implementation, including cultural shifts and skill gaps. Our findings suggest that combining Data Mesh principles with a layered organizational structure can transform enterprise data landscapes, enhancing agility, cross-functional collaboration, and alignment of data assets with business objectives. This article contributes to the evolving field of decentralized data architectures and provides practical insights for organizations seeking to optimize their data management strategies in the face of exponential data growth.",
+    "venue": "International Journal For Multidisciplinary Research",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2329961197",
+        "name": "Anirudha Shekhar Karandikar"
+      }
+    ]
+  },
+  {
+    "paperId": "6dc18b25ed1da7c9994c199677d824d5505fb3f2",
+    "url": "https://www.semanticscholar.org/paper/6dc18b25ed1da7c9994c199677d824d5505fb3f2",
+    "title": "Toward Avoiding the Data Mess: Industry Insights From Data Mesh Implementations",
+    "abstract": "With the increasing importance of data and artificial intelligence, organizations strive to become more data-driven. However, current data architectures are not necessarily designed to keep up with the scale and scope of data and analytics use cases. In fact, existing architectures often fail to deliver the promised value associated with them. Data mesh is a socio-technical, decentralized, distributed concept for enterprise data management. As the concept of data mesh is still novel, it lacks empirical insights from the field. Specifically, an understanding of the motivational factors for introducing data mesh, the associated challenges, implementation strategies, its business impact, and potential archetypes is missing. To address this gap, we conduct 15 semi-structured interviews with industry experts. Our results show, among other insights, that organizations have difficulties with the transition toward federated data governance associated with the data mesh concept, the shift of responsibility for the development, provision, and maintenance of data products, and the comprehension of the overall concept. In our work, we derive multiple implementation strategies and suggest organizations introduce a cross-domain steering unit, observe the data product usage, create quick wins in the early phases, and favor small dedicated teams that prioritize data products. Whereas we acknowledge that organizations need to apply implementation strategies according to their individual needs, we also deduct two archetypes that provide suggestions in more detail. Our findings synthesize insights from industry experts and provide researchers and professionals with preliminary guidelines for the successful adoption of data mesh.",
+    "venue": "IEEE Access",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2267404665",
+        "name": "Jan Bode"
+      },
+      {
+        "authorId": "2261943499",
+        "name": "Niklas Kühl"
+      },
+      {
+        "authorId": "2164170187",
+        "name": "Dominik Kreuzberger"
+      },
+      {
+        "authorId": "2267393327",
+        "name": "Carsten Holtmann"
+      }
+    ]
+  },
+  {
+    "paperId": "6e5e550be1a707fb2d7e9788fa3c7d854c85a97c",
+    "url": "https://www.semanticscholar.org/paper/6e5e550be1a707fb2d7e9788fa3c7d854c85a97c",
+    "title": "Data Mesh Meets Blockchain",
+    "abstract": null,
+    "venue": "International Journal of Computational Intelligence Systems",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "51910340",
+        "name": "Abdulaziz Almaslukh"
+      },
+      {
+        "authorId": "2240136677",
+        "name": "Abdulmajeed Alameer"
+      },
+      {
+        "authorId": "150119960",
+        "name": "Hamad Alsaleh"
+      },
+      {
+        "authorId": "2283332065",
+        "name": "Fahad Alkadyan"
+      },
+      {
+        "authorId": "2283330031",
+        "name": "Nasser Allheeib"
+      },
+      {
+        "authorId": "2138923905",
+        "name": "Abdulaziz Alhadlag"
+      },
+      {
+        "authorId": "50345394",
+        "name": "Yazeed Alabdulkarim"
+      }
+    ]
+  },
+  {
+    "paperId": "6ea8116c965e6f7f8c95a4209af844726b56594e",
+    "url": "https://www.semanticscholar.org/paper/6ea8116c965e6f7f8c95a4209af844726b56594e",
+    "title": "Data Mesh: Motivational Factors, Challenges, and Best Practices",
+    "abstract": "With the increasing importance of data and artificial intelligence, organizations strive to become more data-driven. However, current data architectures are not necessarily designed to keep up with the scale and scope of data and analytics use cases. In fact, existing architectures often fail to deliver the promised value associated with them. Data mesh is a socio-technical concept that includes architectural aspects to promote data democratization and enables organizations to become truly data-driven. As the concept of data mesh is still novel, it lacks empirical insights from the field. Specifically, an understanding of the motivational factors for introducing data mesh, the associated challenges, best practices, its business impact, and potential archetypes, is missing. To address this gap, we conduct 15 semi-structured interviews with industry experts. Our results show, among other insights, that industry experts have difficulties with the transition toward federated governance associated with the data mesh concept, the shift of responsibility for the development, provision, and maintenance of data products, and the concept of a data product model. In our work, we derive multiple best practices and suggest organizations embrace elements of data fabric, observe the data product usage, create quick wins in the early phases, and favor small dedicated teams that prioritize data products. While we acknowledge that organizations need to apply best practices according to their individual needs, we also deduct two archetypes that provide suggestions in more detail. Our findings synthesize insights from industry experts and provide researchers and professionals with guidelines for the successful adoption of data mesh.",
+    "venue": "",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "113568957",
+        "name": "J. Bode"
+      },
+      {
+        "authorId": "2164170187",
+        "name": "Dominik Kreuzberger"
+      },
+      {
+        "authorId": "2322493141",
+        "name": "Germany Sebastian Hirschl Ibm"
+      },
+      {
+        "authorId": "2322493144",
+        "name": "Germany Carsten Holtmann Ibm"
+      }
+    ]
+  },
+  {
+    "paperId": "6eeaa4a35b9f5c87b03dee24960fffb08c99ecc9",
+    "url": "https://www.semanticscholar.org/paper/6eeaa4a35b9f5c87b03dee24960fffb08c99ecc9",
+    "title": "Data-driven journey: a data management paradigm-centric review and data mesh capabilities",
+    "abstract": null,
+    "venue": "International Journal of Data Mining Modelling and Management",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2302193266",
+        "name": "K. Abdellaoui"
+      },
+      {
+        "authorId": "2325529",
+        "name": "Mohamed Ali Hadj Taieb"
+      },
+      {
+        "authorId": "2233167004",
+        "name": "R. Mahjoubi"
+      },
+      {
+        "authorId": "1993913",
+        "name": "M. Benaouicha"
+      }
+    ]
+  },
+  {
+    "paperId": "6f8172988204c37f87b60bdb834ac9eff11ccc94",
+    "url": "https://www.semanticscholar.org/paper/6f8172988204c37f87b60bdb834ac9eff11ccc94",
+    "title": "Data modernisation using a logical data management platform",
+    "abstract": "Like many industries, the capital markets industry relies on reliable access to trustworthy data. For this industry in particular, it is becoming critical for success, if not survival. This type of data access, however, requires modern data infrastructures, and not many organisations are prepared to furnish such infrastructures. This paper introduces ways to modernise the data infrastructure without ripping out and replacing expensive hardware. It covers key capabilities of modern data infrastructures and compares and contrasts emerging technologies such as cloud data warehouses, data lakes, data virtualisation, logical data fabric and data mesh. The paper provides a business case for complementing investments in centralised data management tools, such as cloud data warehouses or data lakes, with a logical data management approach.",
+    "venue": "Journal of Securities Operations &amp; Custody",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2313166271",
+        "name": "Charles Southwood"
+      }
+    ]
+  },
+  {
+    "paperId": "75ff3dd57b16df9501e025dc34f3a88770bd564c",
+    "url": "https://www.semanticscholar.org/paper/75ff3dd57b16df9501e025dc34f3a88770bd564c",
+    "title": "The Rise of Data Observability: Architecting the Future of Data Trust",
+    "abstract": "As companies become increasingly data driven, the technologies underlying these rich insights have grown more and more nuanced and complex. While our ability to collect, store, aggregate, and visualize this data has largely kept up with the needs of modern data teams (think: domain-oriented data meshes, cloud warehouses, data visualization tools, and data modeling solutions), the mechanics behind data quality and integrity has lagged. To keep pace with data's clock speed of innovation, data engineers need to invest not only in the latest modeling and analytics tools, but also technologies that can increase data accuracy and prevent broken pipelines. The solution? Data observability, the next frontier of data engineering. I'll discuss why data observability matters to building a better data quality strategy and tactics best-in-class organizations use to address it -- including org structure, culture, and technology.",
+    "venue": "Web Search and Data Mining",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2154452551",
+        "name": "Barr Moses"
+      }
+    ]
+  },
+  {
+    "paperId": "76a86f95e81176ca7132965fc35ac5ae05e9e385",
+    "url": "https://www.semanticscholar.org/paper/76a86f95e81176ca7132965fc35ac5ae05e9e385",
+    "title": "ProMoTe: A Data Product Model Template for Data Meshes",
+    "abstract": null,
+    "venue": "International Conference on Conceptual Modeling",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2077094491",
+        "name": "Stefan W. Driessen"
+      },
+      {
+        "authorId": "2066278684",
+        "name": "Willem-jan Van Den Heuvel"
+      },
+      {
+        "authorId": "1980129",
+        "name": "Geert Monsieur"
+      }
+    ]
+  },
+  {
+    "paperId": "7d89533ee3cbf157cd4582cb2fa1cd8170a4c3ce",
+    "url": "https://www.semanticscholar.org/paper/7d89533ee3cbf157cd4582cb2fa1cd8170a4c3ce",
+    "title": "Transforming Data Lakes to Data Meshes Using Semantic Data Blueprints",
+    "abstract": ": In the continuously evolving and growing landscape of Big Data, a key challenge lies in the transformation of a Data Lake into a Data Mesh structure. Unveiling a transformative approach through semantic data blueprints enables organizations to align with changing business needs swiftly and effortlessly. This paper delves into the intricacies of detecting and shaping Data Domains and Data Products within Data Lakes and proposes a standardized methodology that combines the principles of Data Blueprints with Data Meshes. Essentially, this work introduces an innovative standardization framework dedicated to generating Data Products through a mechanism of semantic enrichment of data residing in Data Lakes. This mechanism not only enables the creation readiness and business alignment of Data Domains, but also facilitates the extraction of actionable insights from software products and processes. The proposed approach is qualitatively assessed using a set of functional attributes and is compared against established data structures within storage architectures yielding very promising results.",
+    "venue": "International Conference on Evaluation of Novel Approaches to Software Engineering",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "134454480",
+        "name": "Michalis Pingos"
+      },
+      {
+        "authorId": "2299444520",
+        "name": "Athos Mina"
+      },
+      {
+        "authorId": "2299452568",
+        "name": "Andreas S. Andreou"
+      }
+    ]
+  },
+  {
+    "paperId": "8070fd8620ad763db78eab4ba2f18b431e54fdeb",
+    "url": "https://www.semanticscholar.org/paper/8070fd8620ad763db78eab4ba2f18b431e54fdeb",
+    "title": "Human Intuition and Algorithmic Efficiency Must Be Balanced to Enhance Data Mesh Resilience",
+    "abstract": "Improving data governance methodologies.",
+    "venue": "Communications of the ACM",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2481987",
+        "name": "Andrew Strelzoff"
+      },
+      {
+        "authorId": "15827582",
+        "name": "Benjamin D. Trump"
+      },
+      {
+        "authorId": "2264974070",
+        "name": "Christopher L. Cummings"
+      },
+      {
+        "authorId": "2110015219",
+        "name": "Madison V Smith"
+      },
+      {
+        "authorId": "6534713",
+        "name": "S. Galaitsi"
+      },
+      {
+        "authorId": "121609436",
+        "name": "Kelsey Stoddard"
+      },
+      {
+        "authorId": "3009626",
+        "name": "J. Keisler"
+      },
+      {
+        "authorId": "2296541265",
+        "name": "Moshe Y. Vardi"
+      },
+      {
+        "authorId": "2135412560",
+        "name": "Nathaniel D. Bastian"
+      },
+      {
+        "authorId": "2212541563",
+        "name": "Alexander Kott"
+      },
+      {
+        "authorId": "2238111614",
+        "name": "Igor Linkov"
+      }
+    ]
+  },
+  {
+    "paperId": "81596c8aa7da28e7df43ae14785dbb5b5239a56c",
+    "url": "https://www.semanticscholar.org/paper/81596c8aa7da28e7df43ae14785dbb5b5239a56c",
+    "title": "Case Studies of Data Mesh Adoption in Fintech: Lessons Learned - Present Case Studies of Financial Institutions",
+    "abstract": ": In the rapidly evolving fintech landscape, the adoption of Data Mesh has emerged as a game-changer for managing and leveraging vast amounts of data. This article delves into the real-world experiences of financial institutions that have embraced Data Mesh, offering valuable insights into their journeys. Through detailed case studies, we explore the successes, challenges, and lessons learned from these pioneering organizations. One financial institution redefined its data architecture, enabling decentralized data ownership and improved data quality. Their journey highlights the importance of cultural change and the need for robust data governance frameworks. Another case study showcases a fintech company that leveraged Data Mesh to enhance its customer analytics, resulting in personalized financial products and services. Their success underscores the transformative power of domain-oriented data management. However, the path to Data Mesh adoption is not without hurdles. We discuss the common challenges faced, such as integrating legacy systems, ensuring data interoperability, and managing cross-functional collaboration. These stories provide a realistic view of the complexities involved and the strategies employed to overcome them. Key takeaways from these case studies emphasize the critical role of leadership in driving data-centric transformation, the necessity of continuous education and upskilling, and the value of fostering a data-driven culture. By learning from these experiences, other financial institutions can better navigate their own Data Mesh adoption journeys, ultimately unlocking the full potential of their data assets.",
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2324631910",
+        "name": "Abhilash Katari"
+      }
+    ]
+  },
+  {
+    "paperId": "830391d0f555d695c22e171ba75de2e8a435dd5f",
+    "url": "https://www.semanticscholar.org/paper/830391d0f555d695c22e171ba75de2e8a435dd5f",
+    "title": "SAP's global data mesh for composable data management supporting cross-domain consumption",
+    "abstract": "SAP delivers a broad set of enterprise cloud applications which cut across a large variety of industry domains. SAP envisions supporting modern businesses by composing its portfolio of applications into an integrated offering called the Intelligent Enterprise Suite. This vision requires cross domain integration of processes",
+    "venue": "CDMS@VLDB",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2053886348",
+        "name": "Anil K. Goel"
+      },
+      {
+        "authorId": "9942835",
+        "name": "Mihnea Andrei"
+      }
+    ]
+  },
+  {
+    "paperId": "835572e9cfe10773eb26257ca02216c7ee7c4dd0",
+    "url": "https://www.semanticscholar.org/paper/835572e9cfe10773eb26257ca02216c7ee7c4dd0",
+    "title": "Towards Automating Federated Data Governance",
+    "abstract": "Recently several approaches to federated data governance and decentralized data operations have been proposed. Data mesh, one of the most prominent of these approaches, specifically targets how to automate and scale governance at large organizations. Governance tasks, such as ensuring data protection compliance, are notoriously challenging to automate. This paper proposes new ways to verify data declassification via contract-based methods. The design benefits from compositional characteristics of data mesh and builds upon existing contract-testing solutions from the microservices domain.",
+    "venue": "2024 IEEE International Conference on Web Services (ICWS)",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2326128671",
+        "name": "Arif Wider"
+      },
+      {
+        "authorId": "2326127059",
+        "name": "Katharine Jarmul"
+      },
+      {
+        "authorId": "2326128595",
+        "name": "Atif Akhtar"
+      }
+    ]
+  },
+  {
+    "paperId": "852e780f8663f26c346e5c9dc77d0639d1b1d63b",
+    "url": "https://www.semanticscholar.org/paper/852e780f8663f26c346e5c9dc77d0639d1b1d63b",
+    "title": "From a Monolithic PLM Landscape to a Federated Domain and Data Mesh",
+    "abstract": "Abstract Product Lifecycle Management (PLM) is one of the most business-critical IT backbones of manufacturing companies. It often consists of numerous, rigidly interwoven monolithic applications and is seen as synonymous with costly maintenance, lack of extensibility, and poor scalability. This paper proposes an approach for transforming a monolithic PLM landscape into a federated Domain and Data Mesh. This enhances semantic interoperability and enables data-driven use cases by treating data as first-class citizens. User-centric PLM domains moreover help to increase productivity in the workplace.",
+    "venue": "Proceedings of the Design Society",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2098328812",
+        "name": "Y. Hooshmand"
+      },
+      {
+        "authorId": "2077185348",
+        "name": "J. Resch"
+      },
+      {
+        "authorId": "2913221",
+        "name": "P. Wischnewski"
+      },
+      {
+        "authorId": "144931827",
+        "name": "P. Patil"
+      }
+    ]
+  },
+  {
+    "paperId": "86504845c4f0544bfca5a9fbc89f3ae2a3685adb",
+    "url": "https://www.semanticscholar.org/paper/86504845c4f0544bfca5a9fbc89f3ae2a3685adb",
+    "title": "Check Out the Big Brain on BRAD: Simplifying Cloud Data Processing with Learned Automated Data Meshes",
+    "abstract": "\n The last decade of database research has led to the prevalence of specialized systems for different workloads. Consequently, organizations often rely on a combination of specialized systems, organized in a\n Data Mesh.\n Data meshes present significant challenges for system administrators, including picking the right system for each workload, moving data between systems, maintaining consistency, and correctly configuring each system. Many non-expert end users (e.g., data analysts or app developers) either cannot solve their business problems, or suffer from sub-optimal performance or cost due to this complexity. We envision BRAD, a cloud system that automatically integrates and manages data and systems into an instance-optimized data mesh, allowing users to efficiently store and query data under a unified data model (i.e., relational tables) without knowledge of underlying system details. With machine learning, BRAD automatically deduces the strengths and weaknesses of each engine through a combination of offline training and online probing. Then, BRAD uses these insights to route queries to the most suitable (combination of) system(s) for efficient execution. Furthermore, BRAD automates configuration tuning, resource scaling, and data migration across component systems, and makes recommendations for more impactful decisions, such as adding or removing systems. As such, BRAD exemplifies a new class of systems that utilize machine learning and the cloud to make complex data processing more accessible to end users, raising numerous new problems in database systems, machine learning, and the cloud.\n",
+    "venue": "Proceedings of the VLDB Endowment",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1746961",
+        "name": "Tim Kraska"
+      },
+      {
+        "authorId": "2118910354",
+        "name": "Tianyu Li"
+      },
+      {
+        "authorId": "144478906",
+        "name": "S. Madden"
+      },
+      {
+        "authorId": "2094294894",
+        "name": "Markos Markakis"
+      },
+      {
+        "authorId": "1666750692",
+        "name": "Amadou Latyr Ngom"
+      },
+      {
+        "authorId": "2109685286",
+        "name": "Ziniu Wu"
+      },
+      {
+        "authorId": "2191212297",
+        "name": "Geoffrey X. Yu"
+      }
+    ]
+  },
+  {
+    "paperId": "872384c27964bf65fd7c80017f846abb9a3f1ec8",
+    "url": "https://www.semanticscholar.org/paper/872384c27964bf65fd7c80017f846abb9a3f1ec8",
+    "title": "Centralized Data Warehouse vs. Data Mesh: A Comparative Analysis of Modern Data Management Paradigms",
+    "abstract": "This comprehensive article explores the evolving landscape of enterprise data management, focusing on comparing traditional centralized data warehouses and the emerging data mesh paradigm. As organizations grapple with exponential data growth, projected to reach 180 zettabytes by 2025 [1], the choice of data architecture has become increasingly critical. The article examines both approaches' core principles, advantages, and challenges, highlighting how centralized data warehouses offer strong consistency and governance [2, 8] but face scalability issues [3]. In contrast, data mesh provides enhanced flexibility and domain-specific optimization [4] at the cost of more complex governance [5]. Through a detailed comparative analysis, the study investigates the impact of these architectures on organizational control, scalability, adaptability to business needs, and data quality management. Furthermore, it explores the potential of hybrid approaches that aim to leverage the strengths of both paradigms. The research considers various factors influencing the selection of data management strategies, including organization size, data complexity, and industry-specific requirements. By synthesizing current literature and industry trends, this article provides data professionals and decision-makers with a nuanced understanding of modern data management paradigms, enabling them to make informed choices aligned with their specific business contexts and long-term data strategies.",
+    "venue": "International Journal For Multidisciplinary Research",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2330605347",
+        "name": "Santhosh Gourishetti"
+      }
+    ]
+  },
+  {
+    "paperId": "937cfb1e58c6e6a998d2d6c4088c72de14aa412b",
+    "url": "https://www.semanticscholar.org/paper/937cfb1e58c6e6a998d2d6c4088c72de14aa412b",
+    "title": "Adopting the Data Mesh – An approach to unlock business value",
+    "abstract": "\n This paper presents a case study on the adoption of Data Mesh, a novel approach to managing data in organisations, and its impact on unlocking business value. The study explores the implementation of Data Mesh principles, including the establishment of decentralised data ownership and domain-oriented data teams. The results demonstrate the effectiveness of Data Mesh in improving data accessibility, data quality, and accelerating data-driven decision-making processes. This paper provides insights and practical recommendations for organisations looking to adopt Data Mesh to harness the true potential of their data assets.",
+    "venue": "Day 2 Wed, September 06, 2023",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2238142084",
+        "name": "D. Ramchandani"
+      },
+      {
+        "authorId": "2238127495",
+        "name": "D. Mackinnon"
+      }
+    ]
+  },
+  {
+    "paperId": "948a2f9ee97155d85f23294dd6537df1de057f9b",
+    "url": "https://www.semanticscholar.org/paper/948a2f9ee97155d85f23294dd6537df1de057f9b",
+    "title": "Data Mesh Adoption: A Multi-case and Multi-method Readiness Approach",
+    "abstract": null,
+    "venue": "European, Mediterranean and Middle Eastern Conference on Information Systems",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2294592932",
+        "name": "Isabel Ramos"
+      },
+      {
+        "authorId": "2294887381",
+        "name": "Maribel Yasmina Santos"
+      },
+      {
+        "authorId": "2294593695",
+        "name": "Divya Joshi"
+      },
+      {
+        "authorId": "2170032949",
+        "name": "Sheetal Pratik"
+      }
+    ]
+  },
+  {
+    "paperId": "9636d2d40acc001b94ddf3160d944e479e7c32b4",
+    "url": "https://www.semanticscholar.org/paper/9636d2d40acc001b94ddf3160d944e479e7c32b4",
+    "title": "Methodology for developing a prediction model for the remaining fatigue life and residual strength of tidal turbine blades",
+    "abstract": "As tidal energy nears commercial viability, the reliability and safety of a tidal energy device becomes more prevalent. A key aspect for determining their reliability and safety, along with reducing risk during operational deployment, is the structural integrity of tidal turbine blades. Therefore, a validated model for predicting the structural integrity of tidal turbine blades will aid in de-risking tidal energy technologies. In this study, a three-phase approach was used to formulate a strategy to predict the remaining fatigue life and residual strength of tidal turbine blades, over their operational lifespan.  In Phase 1, the parameters influencing the structural properties of tidal turbine blades were identified based on the literature review, and the expertise in the field. Then, parameters were extensively studied and classified into four main impact groups, which include load conditions, design and manufacturing, degradation, and unexpected situations. Loading conditions on the blade are directly linked to hydrodynamic forces, maintenance, operating conditions, and corrosion effects. At the same time, these scenarios can vary with fluid-structure interactions, climate conditions, local site conditions, and maintenance and inspection schedules of the blades. The design and manufacturing category mainly represents the impact of the properties of composite materials, the geometry of the blade, and manufacturing process parameters. Similar to the other structures, tidal turbine blades are subject to deterioration and unexpected accidents during their service life, which significantly compromises the structural integrity of the blade. In Phase 2, a data management strategy was formulated related to identified four impact categories and investigated the possible methods of analysing the data. In this context, finite element analysis of composite tidal turbine blades was identified as the most appropriate tool to comprehensively examine collected data, prior to comparing the results to the field and laboratory-based test data. Mesh properties of the numerical models, test standards, instrumentation, and equipment used for field and laboratory-based structural testing of tidal turbine blades, as well as the accuracy of data acquisition systems, influence the comparison of these results. Finally, with the information gathered, as well as knowledge and experience in the field, a method for estimating the residual strength and remaining fatigue life of tidal turbines at each stage of their operation was formulated. The model will undergo a series of extensive validation processes using experimental testing datasets and will be used in the future to develop vulnerability curves related to the remaining structural life of the tidal turbine blades.",
+    "venue": "Proceedings of the European Wave and Tidal Energy Conference",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2217154220",
+        "name": "Tenis Ranjan Munaweera Thanthirige"
+      },
+      {
+        "authorId": "31730327",
+        "name": "W. Finnegan"
+      },
+      {
+        "authorId": "38430483",
+        "name": "J. Goggins"
+      }
+    ]
+  },
+  {
+    "paperId": "967a5d1d17597f05bc502792ce8cc91abb353bc1",
+    "url": "https://www.semanticscholar.org/paper/967a5d1d17597f05bc502792ce8cc91abb353bc1",
+    "title": "Implementing Federated Governance in Data Mesh Architecture",
+    "abstract": "Analytical data platforms have been used for decades to improve organizational performance. Starting from the data warehouses used primarily for structured data processing, through the data lakes oriented for raw data storage and post-hoc data analyses, to the data lakehouses—a combination of raw storage and business intelligence pre-processing for improving the platform’s efficacy. But in recent years, a new architecture called Data Mesh has emerged. The main promise of this architecture is to remove the barriers between operational and analytical teams in order to boost the overall value extraction from the big data. A number of attempts have been made to formalize and implement it in existing projects. Although being defined as a socio-technical paradigm, data mesh still lacks the technology support to enable its widespread adoption. To overcome this limitation, we propose a new view of the platform requirements alongside the formal governance definition that we believe can help in the successful adoption of the data mesh. It is based on fundamental aspects such as decentralized data domains and federated computational governance. In addition, we also present a blockchain-based implementation of a mesh platform as a practical validation of our theoretical proposal. Overall, this article demonstrates a novel research direction for information system decentralization technologies.",
+    "venue": "Future Internet",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2294434252",
+        "name": "Anton Dolhopolov"
+      },
+      {
+        "authorId": "2102129",
+        "name": "Arnaud Castelltort"
+      },
+      {
+        "authorId": "2283317294",
+        "name": "Anne Laurent"
+      }
+    ]
+  },
+  {
+    "paperId": "9b86137e07ee9b1b3e8d3dd51258f9e88526e630",
+    "url": "https://www.semanticscholar.org/paper/9b86137e07ee9b1b3e8d3dd51258f9e88526e630",
+    "title": "Smart Factory Hub – Towards a Data Mesh in Smart Manufacturing",
+    "abstract": null,
+    "venue": "Procedia Computer Science",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2135686559",
+        "name": "R. González-Velázquez"
+      },
+      {
+        "authorId": "2292539501",
+        "name": "Izaskun Fernández"
+      },
+      {
+        "authorId": "2067630442",
+        "name": "Ruben Ferreira"
+      },
+      {
+        "authorId": "2292624288",
+        "name": "Carlos Carballo"
+      },
+      {
+        "authorId": "2292496971",
+        "name": "Álvaro García"
+      },
+      {
+        "authorId": "2292621505",
+        "name": "Bruno Santamaría"
+      },
+      {
+        "authorId": "2292777110",
+        "name": "Diego González"
+      }
+    ]
+  },
+  {
+    "paperId": "9ead0bc9b69bbc0aafbb9d4b37778bccc5439379",
+    "url": "https://www.semanticscholar.org/paper/9ead0bc9b69bbc0aafbb9d4b37778bccc5439379",
+    "title": "Big Data Value Graph: Enhancing Security and Generating new Value from Big Data",
+    "abstract": "The opportunity to extract value from data has become a key capability for organisations, especially with the spread of Big Data. The Data Mesh is a model that proposes a solution for Big Data management. In this paper, we propose that the integration of this model with the Big Data Value Chain can provide benefits for organisations participating in the mesh. The two main benefits relate to security and Value Generation. The new framework resulting from this merging allows to increase the level of security and the Value Generated for participants. Throughout the paper, the concepts of Big Data and Data Mesh will be introduced. Then, our proposed integration and how it can positively affect the levels of security and the results of Value Generation will be explained.",
+    "venue": "Italian Conference on Cybersecurity",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2243449985",
+        "name": "Massimiliano Gervasi"
+      },
+      {
+        "authorId": "2243466107",
+        "name": "Nicolò Gianmauro Totaro"
+      },
+      {
+        "authorId": "2243454950",
+        "name": "Anna Fornaio"
+      },
+      {
+        "authorId": "2243455519",
+        "name": "Danilo Caivano"
+      }
+    ]
+  },
+  {
+    "paperId": "a25576df9bd2d3f49a5c43ae6c2f5e2d5b3dd5c2",
+    "url": "https://www.semanticscholar.org/paper/a25576df9bd2d3f49a5c43ae6c2f5e2d5b3dd5c2",
+    "title": "Semantic Metadata Requirements for Data Warehousing from a Dimensional Modeling Perspective",
+    "abstract": ": The era of big data has brought on new challenges to data warehousing. Emerging architectural paradigms such as data fabric , data mesh , lakehouse and logical data warehouse are promoted as solutions to big data analytics challenges. However, such hybrid environments, aimed at offering universal data platforms for analytics, have schemas that tend to grow in size and complexity and become more dynamic and decentralized, having a drastic impact on data management. Data integrity, consistency and clear meaning are compromised in large architectures where traditional (relational) database principles do not apply. This paper proposes an investigation into semantic metadata solutions in modern data warehousing from a (logical) dimensional modeling perspective. The primary goal is to determine which metadata and types of semantics are required to support automated dimensionalization as it is assumed to be a good approach to integrate data with different modalities. A secondary goal is finding a suitable model to represent such metadata and semantics for both human and computer interpretability and use. The proposal includes a description of the research problem, an outline of the objectives, the state of the art, the methdology and assumptions, the exepected outcome and current stage of the research.",
+    "venue": "International Conference on Enterprise Information Systems",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "69054730",
+        "name": "S. Campher"
+      }
+    ]
+  },
+  {
+    "paperId": "a35e504d7ef5cb7559e0b3e6ce51fafd6255ee16",
+    "url": "https://www.semanticscholar.org/paper/a35e504d7ef5cb7559e0b3e6ce51fafd6255ee16",
+    "title": "SimulationOps - Towards a Simulation as-a-Service Platform for Resilient Societies Using a Cross-domain Data Mesh",
+    "abstract": null,
+    "venue": "Proceedings of the 20th International Conference on Information Systems for Crisis Response and Management",
+    "year": 2023,
+    "authors": []
+  },
+  {
+    "paperId": "a76bb0d04e553defa5099605782c6fd7c7e7500f",
+    "url": "https://www.semanticscholar.org/paper/a76bb0d04e553defa5099605782c6fd7c7e7500f",
+    "title": "ENABLING KNOWLEDGE SHARING BY MANAGING DEPENDENCIES AND INTEROPERABILITY BETWEEN INTERLINKED SPATIAL KNOWLEDGE GRAPHS",
+    "abstract": "Abstract. Knowledge sharing is increasingly being recognized as necessary to address societal, economic, environmental, and public health challenges. This often requires collaboration between federal, local, and tribal governments along with the private sector, nonprofit organizations, and institutions of higher education. To achieve this, there needs to be a move away from data-centric to knowledge sharing architectures, such as a Geospatial Knowledge Infrastructure (GKI). Data from multiple organizations need to be properly contextualized in both space and time to support geographically based planning, decision making, cooperation and coordination. A spatial knowledge graph (SKG) is a useful paradigm for facilitating knowledge sharing and collaboration. However, interoperability between independently developed SKGs from different organizations that reference the same geographies is often not automated in a machine-readable way due to a lack of standardization. This paper outlines an architecture that automates interoperability and dependency management between SKGs as they are formally published by version and period of validity. We are calling this approach a spatial knowledge mesh (SKM), as it is a specialization of the data mesh architecture along with the concept of a common geo-registry to facilitate knowledge sharing more easily. The initial implementation, called GeoPrism Registry, is being developed as an open-source spatial knowledge infrastructure as a platform to help countries meet their NSDI and GKI objectives. It was fist funded and deployed to support ministries of health and is more recently being utilized in GeoPlatform.gov.\n",
+    "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "47756156",
+        "name": "N. McEachen"
+      },
+      {
+        "authorId": "2109241459",
+        "name": "J. Lewis"
+      }
+    ]
+  },
+  {
+    "paperId": "a802638d5a79d295ffa3b4c24e7590d46354c75c",
+    "url": "https://www.semanticscholar.org/paper/a802638d5a79d295ffa3b4c24e7590d46354c75c",
+    "title": "Advancing Data Architectures with Data Mesh Implementations",
+    "abstract": null,
+    "venue": "CAiSE Forum",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2123102482",
+        "name": "I. Machado"
+      },
+      {
+        "authorId": "144989051",
+        "name": "Carlos A. Costa"
+      },
+      {
+        "authorId": "2209529137",
+        "name": "M. Y. Santos"
+      }
+    ]
+  },
+  {
+    "paperId": "afc2e72f148d000519470c835340e671ec3ae975",
+    "url": "https://www.semanticscholar.org/paper/afc2e72f148d000519470c835340e671ec3ae975",
+    "title": "Data adaptive RKHS Tikhonov regularization for learning kernels in operators",
+    "abstract": "We present DARTR: a Data Adaptive RKHS Tikhonov Regularization method for the linear inverse problem of nonparametric learning of function parameters in operators. A key ingredient is a system intrinsic data-adaptive (SIDA) RKHS, whose norm restricts the learning to take place in the function space of identifiability. DARTR utilizes this norm and selects the regularization parameter by the L-curve method. We illustrate its performance in examples including integral operators, nonlinear operators and nonlocal operators with discrete synthetic data. Numerical results show that DARTR leads to an accurate estimator robust to both numerical error due to discrete data and noise in data, and the estimator converges at a consistent rate as the data mesh refines under different levels of noises, outperforming two baseline regularizers using $l^2$ and $L^2$ norms.",
+    "venue": "Mathematical and Scientific Machine Learning",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "40464284",
+        "name": "F. Lu"
+      },
+      {
+        "authorId": "1983886204",
+        "name": "Quanjun Lang"
+      },
+      {
+        "authorId": "2068121000",
+        "name": "Qi An"
+      }
+    ]
+  },
+  {
+    "paperId": "b208e1abb366dfd1478713b23327c9c0debcb9b3",
+    "url": "https://www.semanticscholar.org/paper/b208e1abb366dfd1478713b23327c9c0debcb9b3",
+    "title": "Leveraging the Benefits of Big Data and AI at Siemens: The Critical Role of Data Mesh and Domain Orientation",
+    "abstract": null,
+    "venue": "Leveraging the Benefits of Big Data and AI at Siemens: The Critical Role of Data Mesh and Domain Orientation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2258188948",
+        "name": "Fabian Tinkl-Hennighausen"
+      }
+    ]
+  },
+  {
+    "paperId": "b8674361f05a75b64e525c94b7c47024c58a3a60",
+    "url": "https://www.semanticscholar.org/paper/b8674361f05a75b64e525c94b7c47024c58a3a60",
+    "title": "Introducing Data Mesh Paradigm for Smart City Platforms Design",
+    "abstract": null,
+    "venue": "Hawaii International Conference on System Sciences",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2374922",
+        "name": "M. Krystek"
+      },
+      {
+        "authorId": "1705262",
+        "name": "C. Mazurek"
+      },
+      {
+        "authorId": "5223299",
+        "name": "Mikolaj Morzy"
+      },
+      {
+        "authorId": "2296392",
+        "name": "Juliusz Pukacki"
+      }
+    ]
+  },
+  {
+    "paperId": "b952c9ffae8f8b4c30f6d1d4eaf1245c81c5ed42",
+    "url": "https://www.semanticscholar.org/paper/b952c9ffae8f8b4c30f6d1d4eaf1245c81c5ed42",
+    "title": "Agile data management in NAV: A Case Study",
+    "abstract": ". To satisfy the need for analytical data in the development of digital services, many organizations use data warehouse, and, more recently, data lake architectures. These architectures have traditionally been accompanied by centralized organizational models, where a single team or department has been responsible for gathering, transforming, and giving access to analytical data. However, such centralized models presuppose stability and are incompatible with agile software development where applications and databases are continuously updated. To achieve more agile forms of data management, some organizations have therefore begun to experiment with distributed data management models such as “data meshes”. Research on this topic is however limited. In this paper, we report findings from a case study of a public sector organization in Norway that has begun the transition from centralized to distributed data management, outlining both the benefits and challenges of a distributed approach.",
+    "venue": "International Conference on Agile Software Development",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "3401497",
+        "name": "Kathrine Vestues"
+      },
+      {
+        "authorId": "2200157",
+        "name": "G. Hanssen"
+      },
+      {
+        "authorId": "2850781",
+        "name": "Marius Mikalsen"
+      },
+      {
+        "authorId": "1397181196",
+        "name": "Thor Aleksander Buan"
+      },
+      {
+        "authorId": "2032848",
+        "name": "Kieran Conboy"
+      }
+    ]
+  },
+  {
+    "paperId": "bc20cc50391d1893f749e06d745e2e6f853a0da9",
+    "url": "https://www.semanticscholar.org/paper/bc20cc50391d1893f749e06d745e2e6f853a0da9",
+    "title": "Data Mesh Architecture Support in Snowflake vs Databricks: A Comprehensive Comparison",
+    "abstract": null,
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2318433602",
+        "name": "Rameshbabu Lakshmanasamy"
+      }
+    ]
+  },
+  {
+    "paperId": "bc6b503850d7dd5d9ef1962d04df22f1a3935915",
+    "url": "https://www.semanticscholar.org/paper/bc6b503850d7dd5d9ef1962d04df22f1a3935915",
+    "title": "A Data Mesh Adaptable Oil and Gas Ontology Based on Open Subsurface Data Universe (OSDU)",
+    "abstract": ": Incompatible models, heterogeneous data, and siloed data present challenges for the Oil & Gas industry. Knowledge graphs provide efficient consolidation, improved quality, and universal access to data, addressing these challenges. Developed by major global Oil & Gas and cloud organizations, the Open Subsurface Data Universe (OSDU) platform provides subsurface energy data ingestion, enrichment, and consumption services, as well as metadata storage, indexing, and search services. OSDU data supply chain aligns with the main concepts of the new trending data architecture, Data Mesh, such as federated data governance, decoupling data from applications, and domain specific data products. Data integration in subsurface data industry can be achieved by building a domain knowledge graph based on standard and enriched OSDU framework schemas. A knowledge graph-based solution begins with building a domain ontology. The purpose of this article is to introduce the OSDU ontology, which is publicly available on GitHub under the Apache 2.0 license. This paper discusses OSDU ontology design, development, applications, and evaluation.",
+    "venue": "International Conference on Knowledge Engineering and Ontology Development",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "31274216",
+        "name": "Neda Abolhassani"
+      },
+      {
+        "authorId": "2267816360",
+        "name": "Ana Tudor"
+      },
+      {
+        "authorId": "2212575097",
+        "name": "Sanjoy Paul"
+      }
+    ]
+  },
+  {
+    "paperId": "c0e0739c67e529f256402d362ccaabdb3b9ed7c8",
+    "url": "https://www.semanticscholar.org/paper/c0e0739c67e529f256402d362ccaabdb3b9ed7c8",
+    "title": "IMPACT OF DATA MESH ARCHITECTURE FOR ENTERPRISE DATA LAKES",
+    "abstract": "The appearance of data mesh architecture brings changes with which the enterprises use data lakes. This type of architecture involves the decentralization of data ownership and governance since it is scalable, agile, of better quality, and consistent. It also helps to create necessary cooperation and innovation, and, at the same time, control costs and usage of resources. Delegating the management of data to specialized domain teams allows organizations to act faster in response to business requirements, enhance data accuracy, and thus promote the concept of constant enhancement. This paper covers the effects of the data mesh architecture on enterprise data lakes to understand how it is beneficial and how it can be implemented.",
+    "venue": "Journal of Artificial Intelligence, Machine Learning and Data Science",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2316077511",
+        "name": "Girish Ganachari"
+      }
+    ]
+  },
+  {
+    "paperId": "c398011852b3e8b9ebfb2eea3c5b208de7930ffa",
+    "url": "https://www.semanticscholar.org/paper/c398011852b3e8b9ebfb2eea3c5b208de7930ffa",
+    "title": "Data Analytics: Data Mesh Architecture and Its Implications for Data Management",
+    "abstract": null,
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2330333181",
+        "name": "Kishore Gade"
+      }
+    ]
+  },
+  {
+    "paperId": "c49001d704b12b1933a6216ef11c59db59c108fe",
+    "url": "https://www.semanticscholar.org/paper/c49001d704b12b1933a6216ef11c59db59c108fe",
+    "title": "Transforming Healthcare using Data Mesh",
+    "abstract": null,
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2130623847",
+        "name": "Rajeev Jha"
+      }
+    ]
+  },
+  {
+    "paperId": "cb9213c62badbe999e888014da4359142ab77832",
+    "url": "https://www.semanticscholar.org/paper/cb9213c62badbe999e888014da4359142ab77832",
+    "title": "Data Mesh: a Systematic Gray Literature Review",
+    "abstract": "Data mesh is an emerging domain-driven decentralized data architecture that aims to minimize or avoid operational bottlenecks associated with centralized, monolithic data architectures in enterprises. The topic has picked the practitioners’ interest, and considerable gray literature exists. At the same time, we observe a lack of academic attempts at defining and building upon the concept. Hence, in this article, we aim to start from the foundations and characterize the data mesh architecture regarding its design principles, architectural components, capabilities, and organizational roles. We systematically collected, analyzed, and synthesized 114 industrial gray literature articles. The resulting review provides insights into practitioners’ perspectives on the four key principles of data mesh: data as a product, domain ownership of data, self-serve data platform, and federated computational governance. Moreover, due to the comparability of data mesh and SOA (service-oriented architecture), we mapped the findings from the gray literature into the reference architectures from the SOA academic literature to create the reference architectures for describing three key dimensions of data mesh: organization of capabilities and roles, development, and runtime. Finally, we discuss open research issues in data mesh, partially based on the findings from the gray literature.",
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2213447931",
+        "name": "Abel Goedegebuure"
+      },
+      {
+        "authorId": "145062920",
+        "name": "I. Kumara"
+      },
+      {
+        "authorId": "2077094491",
+        "name": "Stefan W. Driessen"
+      },
+      {
+        "authorId": "50515157",
+        "name": "Dario Di Nucci"
+      },
+      {
+        "authorId": "1980129",
+        "name": "Geert Monsieur"
+      },
+      {
+        "authorId": "2066278684",
+        "name": "Willem-jan Van Den Heuvel"
+      },
+      {
+        "authorId": "144273542",
+        "name": "D. Tamburri"
+      }
+    ]
+  },
+  {
+    "paperId": "cba978d1f4be13916d97927deba9a1b3cc4c91bf",
+    "url": "https://www.semanticscholar.org/paper/cba978d1f4be13916d97927deba9a1b3cc4c91bf",
+    "title": "Performance Modeling of Distributed Data Processing in Microservice Applications",
+    "abstract": "Microservice applications are increasingly adopted in distributed data processing systems, such as in mobile edge computing and data mesh architectures. However, existing performance models of such systems fall short in providing comprehensive insights into the intricate interplay between data placement and data processing. To address these issues, this paper proposes a novel class of performance models that enables joint analysis of data storage access workflows, caching, and queueing contention. Our proposed models introduce a notion of access path for data items to model hierarchical data locality constraints. We develop analytical solutions to efficiently approximate the performance metrics of these models under different data caching policies, finding in particular conditions under which the underlying Markov chain admits a product-form solution. Extensive trace-driven simulations based on real-world datasets indicate that service and data placement policies based on our proposed models can respectively improve by up to 35% and 37% the average response time in edge and data mesh case studies compared to baseline resource allocation heuristics.",
+    "venue": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2267909226",
+        "name": "Yicheng Gao"
+      },
+      {
+        "authorId": "2300291347",
+        "name": "Giuliano Casale"
+      },
+      {
+        "authorId": "2167578847",
+        "name": "Rekha Singhal"
+      }
+    ]
+  },
+  {
+    "paperId": "d00f16dd33276b13bee4348b115f2001a4510329",
+    "url": "https://www.semanticscholar.org/paper/d00f16dd33276b13bee4348b115f2001a4510329",
+    "title": "Mask–Mediator–Wrapper Architecture as a Data Mesh Driver",
+    "abstract": "The data mesh is a novel data management concept that emphasizes the importance of a domain before technology. The concept is still in the early stages of development and many efforts to implement and use it are expected to have negative consequences for organizations due to a lack of technological guidelines and best practices. To mitigate the risk of negative outcomes this paper proposes the use of the mask–mediator–wrapper architecture as a driver for a data mesh implementation. The mask–mediator–wrapper architecture provides a set of prefabricated configurable components that provide basic functionalities that a data mesh requires. This paper shows how the two concepts are compatible in terms of functionality, data modeling, evolvability, and aligned capabilities. A mask–mediator–wrapper-driven data mesh facilitates low-risk adoption trials, rapid prototyping, standardization, and a guarantee of evolvability. We demonstrate a mask–mediator–wrapper-driven data mesh by using our open-source Janus system to experimentally drive an exemplified data mesh.",
+    "venue": "IEEE Transactions on Software Engineering",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2086266452",
+        "name": "Juraj Dončević"
+      },
+      {
+        "authorId": "2617283",
+        "name": "K. Fertalj"
+      },
+      {
+        "authorId": "35167635",
+        "name": "Mario Brčič"
+      },
+      {
+        "authorId": "2174068390",
+        "name": "Mihael Kovač"
+      }
+    ]
+  },
+  {
+    "paperId": "d2a03c80e790cec51fcd51a33ee7a6ac34228da3",
+    "url": "https://www.semanticscholar.org/paper/d2a03c80e790cec51fcd51a33ee7a6ac34228da3",
+    "title": "Towards Avoiding the Data Mess: Industry Insights from Data Mesh Implementations",
+    "abstract": "With the increasing importance of data and artificial intelligence, organizations strive to become more data-driven. However, current data architectures are not necessarily designed to keep up with the scale and scope of data and analytics use cases. In fact, existing architectures often fail to deliver the promised value associated with them. Data mesh is a socio-technical, decentralized, distributed concept for enterprise data management. As the concept of data mesh is still novel, it lacks empirical insights from the field. Specifically, an understanding of the motivational factors for introducing data mesh, the associated challenges, implementation strategies, its business impact, and potential archetypes is missing. To address this gap, we conduct 15 semi-structured interviews with industry experts. Our results show, among other insights, that organizations have difficulties with the transition toward federated governance associated with the data mesh concept, the shift of responsibility for the development, provision, and maintenance of data products, and the comprehension of the overall concept. In our work, we derive multiple implementation strategies and suggest organizations introduce a cross-domain steering unit, observe the data product usage, create quick wins in the early phases, and favor small dedicated teams that prioritize data products. While we acknowledge that organizations need to apply implementation strategies according to their individual needs, we also deduct two archetypes that provide suggestions in more detail. Our findings synthesize insights from industry experts and provide researchers and professionals with preliminary guidelines for the successful adoption of data mesh.",
+    "venue": "",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2267404665",
+        "name": "Jan Bode"
+      },
+      {
+        "authorId": "2267393329",
+        "name": "Niklas Kuhl"
+      },
+      {
+        "authorId": "2164170187",
+        "name": "Dominik Kreuzberger"
+      },
+      {
+        "authorId": "2164170063",
+        "name": "Sebastian Hirschl"
+      },
+      {
+        "authorId": "2267393327",
+        "name": "Carsten Holtmann"
+      }
+    ]
+  },
+  {
+    "paperId": "d2e70eb54ed81c2714b49671bd62c7c61a26e66c",
+    "url": "https://www.semanticscholar.org/paper/d2e70eb54ed81c2714b49671bd62c7c61a26e66c",
+    "title": "Building Industrial Data Platforms - A Case Study on Introducing Data Mesh",
+    "abstract": null,
+    "venue": "European Conference on Information Systems",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2207348998",
+        "name": "Philipp Kernstock"
+      },
+      {
+        "authorId": "2331426157",
+        "name": "Konstantin Biermann"
+      },
+      {
+        "authorId": "2331424960",
+        "name": "Sebastian Sartor"
+      },
+      {
+        "authorId": "2331424946",
+        "name": "Anna Wimbauer"
+      },
+      {
+        "authorId": "2331424940",
+        "name": "Julian Bohnet"
+      },
+      {
+        "authorId": "134779999",
+        "name": "T. Böttcher"
+      },
+      {
+        "authorId": "2331423430",
+        "name": "Andreas Hein"
+      }
+    ]
+  },
+  {
+    "paperId": "d896d5f42f8cb1885f7bf547cfc3aceb25e683b8",
+    "url": "https://www.semanticscholar.org/paper/d896d5f42f8cb1885f7bf547cfc3aceb25e683b8",
+    "title": "Security and Ownership in User-Defined Data Meshes",
+    "abstract": "Data meshes are an approach to data architecture and organization that treats data as a product and focuses on decentralizing data ownership and access. It has recently emerged as a field that presents quite a few challenges related to data ownership, governance, security, monitoring, and observability. To address these challenges, this paper introduces an innovative algorithmic framework leveraging data blueprints to enable the dynamic creation of data meshes and data products in response to user requests, ensuring that stakeholders have access to specific portions of the data mesh as needed. Ownership and governance concerns are addressed through a unique mechanism involving Blockchain and Non-Fungible Tokens (NFTs). This facilitates the secure and transparent transfer of data ownership, with the ability to mint time-based NFTs. By combining these advancements with the fundamental tenets of data meshes, this research offers a comprehensive solution to the challenges surrounding data ownership and governance. It empowers stakeholders to navigate the complexities of data management within a decentralized architecture, ensuring a secure, efficient, and user-centric approach to data utilization. The proposed framework is demonstrated using real-world data from a poultry meat production factory.",
+    "venue": "Algorithms",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "134454480",
+        "name": "Michalis Pingos"
+      },
+      {
+        "authorId": "2424950",
+        "name": "Panayiotis Christodoulou"
+      },
+      {
+        "authorId": "2064089992",
+        "name": "Andreas S. Andreou"
+      }
+    ]
+  },
+  {
+    "paperId": "dbe4697a742232a4685857b692dc6d2a41fb0ff3",
+    "url": "https://www.semanticscholar.org/paper/dbe4697a742232a4685857b692dc6d2a41fb0ff3",
+    "title": "Data Mesh for Managing Complex Big Data Landscapes and Enhancing Decision Making in Organizations",
+    "abstract": ": In the age of digitization, data is of the utmost importance. Organizations can gain competitive advantage by being ahead of the curve in organizing data, deriving insights from it, and turning those insights into action. In practice, however, many organizations fail to meet this challenge. Far too many decisions are made without data, decision makers don't trust their own data. The data warehouse, later the data lake and more recently the data lakehouse have been propagated as solutions to these problems in recent decades. In some cases, this actually succeeds, in other cases challenges remain. The recently prominent data mesh approach changes the perspective on data and in this respect provides valuable impulses for data architectures in general. Data mesh is a new architectural concept for data management in organizations. Therefore, in this paper, we introduce this new data concept and provide a clear overview of the design of a data mesh architecture. We will then show how it can be technically implemented and what potential there is for using data mesh in organizations. Our methodology is a type of investigation that provides a helpful and practical guide to understanding the principles and patterns of data mesh and their implementation in organizations. Our research result has shown that the data mesh approach is therefore a very good tool for organizations where data sharing and reuse is crucial. In addition to facilitating scalability, data mesh can enable better data integration and data management, improving data quality while fostering a culture of data-driven decision-making.",
+    "venue": "International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2267789881",
+        "name": "Otmane Azeroual"
+      },
+      {
+        "authorId": "71780551",
+        "name": "R. Nacheva"
+      }
+    ]
+  },
+  {
+    "paperId": "dd627350d91340396e02b32e74488fb702dba49f",
+    "url": "https://www.semanticscholar.org/paper/dd627350d91340396e02b32e74488fb702dba49f",
+    "title": "Federated Data Products: A Confluence of Data Mesh and Gaia-X for Data Sharing",
+    "abstract": null,
+    "venue": "ICSOC Workshops",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2293399857",
+        "name": "Farouk Jeffar"
+      },
+      {
+        "authorId": "2293401425",
+        "name": "Pierluigi Plebani"
+      }
+    ]
+  },
+  {
+    "paperId": "df8e6bc4a6a96744dafe997231e954af5228edea",
+    "url": "https://www.semanticscholar.org/paper/df8e6bc4a6a96744dafe997231e954af5228edea",
+    "title": "Discovering Data Domains and Products in Data Meshes Using Semantic Blueprints",
+    "abstract": "Nowadays, one of the greatest challenges in data meshes revolves around detecting and creating data domains and data products for providing the ability to adapt easily and quickly to changing business needs. This requires a disciplined approach to identify, differentiate and prioritize distinct data sources according to their content and diversity. The current paper tackles this highly complicated issue and suggests a standardized approach that integrates the concept of data blueprints with data meshes. In essence, a novel standardization framework is proposed that creates data products using a metadata semantic enrichment mechanism, the latter also offering data domain readiness and alignment. The approach is demonstrated using real-world data produced by multiple sources in a poultry meat production factory. A set of functional attributes is used to qualitatively compare the proposed approach to existing data structures utilized in storage architectures, with quite promising results. Finally, experimentation with different scenarios varying in data product complexity and granularity suggests a successful performance.",
+    "venue": "Technologies",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "134454480",
+        "name": "Michalis Pingos"
+      },
+      {
+        "authorId": "2299452568",
+        "name": "Andreas S. Andreou"
+      }
+    ]
+  },
+  {
+    "paperId": "ec349e95863cb17a0cc07695e2276bbfed34bfb7",
+    "url": "https://www.semanticscholar.org/paper/ec349e95863cb17a0cc07695e2276bbfed34bfb7",
+    "title": "Data Integration Revitalized: From Data Warehouse Through Data Lake to Data Mesh",
+    "abstract": null,
+    "venue": "International Conference on Database and Expert Systems Applications",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1789686",
+        "name": "R. Wrembel"
+      }
+    ]
+  },
+  {
+    "paperId": "ec5c197ea60f25ccce698e43b09651a22151e8a1",
+    "url": "https://www.semanticscholar.org/paper/ec5c197ea60f25ccce698e43b09651a22151e8a1",
+    "title": "Identifying Alternatives and Deciding Factors for a Data Mesh Architecture",
+    "abstract": null,
+    "venue": "Studia informatika",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "101583604",
+        "name": "C. Voß"
+      }
+    ]
+  },
+  {
+    "paperId": "ed3a5e0ee9d4606ba1a8bf96ef213865c87abc15",
+    "url": "https://www.semanticscholar.org/paper/ed3a5e0ee9d4606ba1a8bf96ef213865c87abc15",
+    "title": "Adopting Data Mesh principles to Boost Data Sharing for Clinical Trials",
+    "abstract": "An effective clinical research requires the availability of relevant data and tools that make possible their efficient analysis. Among the several possibilities, data mesh, a distributed data architecture that is organized around specific domains and provides a self-service platform for accessing and using the data, is gaining the attention of the data and software engineering communities, mainly because of its ability to reduce the tension between the platform that manages the data and the teams that are in charge of managing them. Nevertheless, data mesh mainly focuses on how to manage data in a single organization by defining the sphere of responsibilities in the data management. Conversely, the continuous increase of data produced by hospitals calls for new approaches that enable the data sharing between clinical research centers.Goal of this paper is to extend the data mesh approach by considering the sharing of data among organizations which are members of a federation. Under the umbrella of a clinical trial which defines a temporary agreement among hospitals, a federated data mesh solution is designed to support the data management when data products from different organizations are considered. This implies the study on how the data ownership defined in the data mesh somehow becomes data sovereignty when data is shared with other organizations.",
+    "venue": "International Conference on Digital Health",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2235667411",
+        "name": "Matteo Falconi"
+      },
+      {
+        "authorId": "2057242",
+        "name": "P. Plebani"
+      }
+    ]
+  },
+  {
+    "paperId": "ee4fe69df9154a01cb375e6bf5188e39d5bca6ae",
+    "url": "https://www.semanticscholar.org/paper/ee4fe69df9154a01cb375e6bf5188e39d5bca6ae",
+    "title": "ANALYSIS OF ML MODELS LIFECYCLE MANAGEMENT EVOLUTION IN ANALYTICAL DATA PLATFORMS",
+    "abstract": "The analysis of how principles and processes for operationalization of ML models lifecycle were changing along with evolution of data analytics platform up to Data Mesh was done in this article. Firstly, overview of ML operations in OLTP, OLAP and data lake type of platform is performed. While describing ML operations in Data Mesh, analysis of how MLOps recommendations are aligned with core Data Mesh principles is performed with identification of challenges and pitfalls. The challenge of data accessibility for ML models in cross business domains environment with respect to domain-oriented decentralized data ownership and architecture principle is highlighted as one of the most challenging and critical. In a pursuit of resolving identified challenge, article provides analysis of federated learning and feature mesh approaches comparing perspectives of each approach. Finally, conclusions and analysis of remaining and consequential challenges are represented along with topics for further research.",
+    "venue": "Telecommunications and Information Technology",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2322572290",
+        "name": "V. V. Onyshchenko"
+      }
+    ]
+  },
+  {
+    "paperId": "f848dc98e52691349cf417fcd678fc887183c3a6",
+    "url": "https://www.semanticscholar.org/paper/f848dc98e52691349cf417fcd678fc887183c3a6",
+    "title": "An Annotated Glossary for Data Commons, Data Meshes, and Other Data Platforms",
+    "abstract": "Cloud-based data commons, data meshes, data hubs, and other data platforms are important ways to manage, analyze and share data to accelerate research and to support reproducible research. This is an annotated glossary of some of the more common terms used in articles and discussions about these platforms.",
+    "venue": "arXiv.org",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2298040708",
+        "name": "Robert L. Grossman"
+      }
+    ]
+  },
+  {
+    "paperId": "f9a39be4868d09c222038f240319cda9d2472f3e",
+    "url": "https://www.semanticscholar.org/paper/f9a39be4868d09c222038f240319cda9d2472f3e",
+    "title": "Key Lessons from Microservices for Data Mesh Adoption",
+    "abstract": "Data Mesh constitutes an architectural blueprint tailored to facilitate the execution of enterprise data platforms within expansive and intricate organizations. Its design aims to propel the broad adoption of analytics beyond a single platform and solitary implementation team. This research delves into the convergence of Microservices and Data Mesh structures, pinpointing vital learnings from Microservices that can inform and ease the transition to Data Mesh architecture. Several critical components like Domain-Driven Design, data consistency, team autonomy, technology selection, and scalability are included in this investigation, each with significant implications for the successful implementation of a Data Mesh.",
+    "venue": "2023 International Mobile, Intelligent, and Ubiquitous Computing Conference (MIUCC)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2260707333",
+        "name": "Abdulrahman Ashraf"
+      },
+      {
+        "authorId": "2260967033",
+        "name": "Ahmed Hassan"
+      },
+      {
+        "authorId": "2260707923",
+        "name": "Hani Mahdi"
+      }
+    ]
+  },
+  {
+    "paperId": "ffc7df51d5479157dafcb745eaae228e25ad7fbc",
+    "url": "https://www.semanticscholar.org/paper/ffc7df51d5479157dafcb745eaae228e25ad7fbc",
+    "title": "Data Governance in Data Mesh Infrastructures: The Saxo Bank Data Governance in Data Mesh Infrastructures: The Saxo Bank Case Study Case Study",
+    "abstract": "3-7",
+    "venue": "",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "1740592565",
+        "name": "Dr. Divyang Joshi"
+      },
+      {
+        "authorId": "2170032949",
+        "name": "Sheetal Pratik"
+      },
+      {
+        "authorId": "2151493632",
+        "name": "M. Rao"
+      }
+    ]
+  }
+]
