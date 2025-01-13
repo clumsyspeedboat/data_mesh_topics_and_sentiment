@@ -1,21 +1,34 @@
 import json
 
-# Load the JSON data from the file
-with open('relevant_papers.json', 'r', encoding='utf-8') as f:
-    papers = json.load(f)
+def load_existing_urls(filename):
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            return set(line.strip() for line in f)
+    except FileNotFoundError:
+        return set()
 
-# Use a set to store unique URLs
-urls = set()
+def extract_and_update_urls(json_file, output_file):
+    # Load existing URLs
+    existing_urls = load_existing_urls(output_file)
 
-# Iterate over each paper and extract the URL
-for paper in papers:
-    url = paper.get('url')
-    if url:
-        urls.add(url)  # Sets automatically handle duplicates
+    # Load the JSON data from the file
+    with open(json_file, 'r', encoding='utf-8') as f:
+        papers = json.load(f)
 
-# Save the URLs to a text file
-with open('paper_urls.txt', 'w', encoding='utf-8') as f:
-    for url in urls:
-        f.write(url + '\n')
+    # Extract new URLs
+    new_urls = set()
+    for paper in papers:
+        url = paper.get('url')
+        if url and url not in existing_urls:
+            new_urls.add(url)
 
-print(f"Extracted {len(urls)} unique URLs and saved to 'paper_urls.txt'.")
+    # Append new URLs to the file
+    with open(output_file, 'a', encoding='utf-8') as f:
+        for url in new_urls:
+            f.write(url + '\n')
+
+    print(f"Added {len(new_urls)} new URLs to '{output_file}'.")
+    print(f"Total unique URLs: {len(existing_urls) + len(new_urls)}")
+
+# Run the function
+extract_and_update_urls('relevant_papers.json', 'paper_urls.txt')

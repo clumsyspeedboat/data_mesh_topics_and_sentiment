@@ -1951,5 +1951,49 @@
         "name": "M. Rao"
       }
     ]
+  },
+  {
+    "paperId": "f6a86728f7aad436da6fc459ddcdda8bc48156c9",
+    "url": "https://www.semanticscholar.org/paper/f6a86728f7aad436da6fc459ddcdda8bc48156c9",
+    "title": "An AI-Driven Data Mesh Architecture Enhancing Decision-Making in Infrastructure Construction and Public Procurement",
+    "abstract": "Infrastructure construction, often dubbed an\"industry of industries,\"is closely linked with government spending and public procurement, offering significant opportunities for improved efficiency and productivity through better transparency and information access. By leveraging these opportunities, we can achieve notable gains in productivity, cost savings, and broader economic benefits. Our approach introduces an integrated software ecosystem utilizing Data Mesh and Service Mesh architectures. This system includes the largest training dataset for infrastructure and procurement, encompassing over 100 billion tokens, scientific publications, activities, and risk data, all structured by a systematic AI framework. Supported by a Knowledge Graph linked to domain-specific multi-agent tasks and Q&A capabilities, our platform standardizes and ingests diverse data sources, transforming them into structured knowledge. Leveraging large language models (LLMs) and automation, our system revolutionizes data structuring and knowledge creation, aiding decision-making in early-stage project planning, detailed research, market trend analysis, and qualitative assessments. Its web-scalable architecture delivers domain-curated information, enabling AI agents to facilitate reasoning and manage uncertainties, while preparing for future expansions with specialized agents targeting particular challenges. This integration of AI with domain expertise not only boosts efficiency and decision-making in construction and infrastructure but also establishes a framework for enhancing government efficiency and accelerating the transition of traditional industries to digital workflows. This work is poised to significantly influence AI-driven initiatives in this sector and guide best practices in AI Operations.",
+    "venue": "",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2330780452",
+        "name": "Saurabh Mishra"
+      },
+      {
+        "authorId": "2333358809",
+        "name": "Mahendra Shinde"
+      },
+      {
+        "authorId": "2333406694",
+        "name": "Aniket Yadav"
+      },
+      {
+        "authorId": "2330591512",
+        "name": "Bilal Ayyub"
+      },
+      {
+        "authorId": "2331494008",
+        "name": "Anand Rao"
+      }
+    ]
+  },
+  {
+    "paperId": "fa7a14c024394f851ef8228b52920ae13fea5220",
+    "url": "https://www.semanticscholar.org/paper/fa7a14c024394f851ef8228b52920ae13fea5220",
+    "title": "A Data Mesh-Driven Data Lake Architecture for Oil Field Data Consolidation",
+    "abstract": null,
+    "venue": "International Journal of Science and Research (IJSR)",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2301732123",
+        "name": "Gaurav Kumar Sinha"
+      }
+    ]
   }
 ]

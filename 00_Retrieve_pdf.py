@@ -1,6 +1,7 @@
 import requests
 import json
 import time
+import os
 
 # Replace 'your_api_key_here' with your actual API key
 API_KEY = ''  # If you have an API key
@@ -109,8 +110,42 @@ while True:
 
 print(f"Total relevant papers found: {len(relevant_papers)}")
 
-# Save the results to a file
-with open('relevant_papers.json', 'w', encoding='utf-8') as f:
-    json.dump(relevant_papers, f, ensure_ascii=False, indent=2)
+def load_existing_papers(filename):
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return []
+
+# Function to check if a paper is already in the list
+def paper_exists(paper, existing_papers):
+    return any(
+        existing['title'] == paper['title'] and
+        existing['year'] == paper['year'] and
+        existing['url'] == paper['url']
+        for existing in existing_papers
+    )
+
+# Load existing papers
+filename = 'relevant_papers.json'
+existing_papers = load_existing_papers(filename)
+
+# Merge new papers with existing papers
+new_papers = []
+for paper in relevant_papers:
+    if not paper_exists(paper, existing_papers):
+        new_papers.append(paper)
+
+# Append new papers to existing papers
+updated_papers = existing_papers + new_papers
+
+print(f"Existing papers: {len(existing_papers)}")
+print(f"New papers added: {len(new_papers)}")
+print(f"Total papers after update: {len(updated_papers)}")
+
+# Save the updated results to the file
+with open(filename, 'w', encoding='utf-8') as f:
+    json.dump(updated_papers, f, ensure_ascii=False, indent=2)
+
+print(f"Updated papers saved to {filename}")
     
 
